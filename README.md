@@ -82,6 +82,18 @@ I believe in **learning by building**, solving real-world problems, and continuo
 
 <!-- ================= DEVELOPMENT FOCUS ===================== -->
 
+## 🎓 Education
+
+- 🎓 **B.Sc. in Computer Science & Engineering**  
+  **United International University (UIU)**  
+  *Focus: Software Engineering, Web Development, Data Science & Artificial Intelligence*
+
+- 📘 **Higher Secondary Certificate (HSC)**  
+  **Government Science College, Dhaka**
+
+- 📗 **Secondary School Certificate (SSC)**  
+  **Ideal School & College, Motijheel**
+
 ## 🎯 Development Focus
 
 <div align="center">
