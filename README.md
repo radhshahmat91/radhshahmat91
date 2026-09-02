@@ -149,13 +149,11 @@ UI/UX
 
 <a href="https://github.com/radhshahmat91/Portfolio">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_PROJECT_1&theme=tokyonight&hide_border=true" />
+
 
 </a>
 
 <a href="https://github.com/YOUR_USERNAME/YOUR_PROJECT_2">
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_PROJECT_2&theme=tokyonight&hide_border=true" />
 
 </a>
 
