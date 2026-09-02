@@ -70,19 +70,11 @@ I believe in **learning by building**, solving real-world problems, and continuo
 
 </p>
 
-### 🤖 AI / Machine Learning
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
-
-</p>
-
 ### 🔧 Tools & Platforms
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,framer" />
 
 </p>
 
