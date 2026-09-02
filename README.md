@@ -1,101 +1,298 @@
-<!-- ===================== HERO ===================== -->
+<!-- ========================================================= -->
+<!--                    RADH SHAHMAT                           -->
+<!--                 GITHUB PROFILE README                     -->
+<!-- ========================================================= -->
+
+<!-- ======================= BANNER ========================== -->
 
 <div align="center">
+
 <img src="https://github.com/radhshahmat91/radhshahmat91/blob/main/ChatGPT%20Image%20Sep%202%2C%202026%2C%2009_24_50%20PM.png">
 
-
-# 👋 Hey, I'm **Radh Shahmat**
-
-### 🚀 Full-Stack Developer • AI/ML Enthusiast • Problem Solver
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7F5AF0&center=true&vCenter=true&width=650&lines=Building+Modern+Web+Applications;Exploring+Artificial+Intelligence;Learning+Something+New+Every+Day;Turning+Ideas+Into+Real+Projects" />
+</div>
 
 <br>
+
+<!-- ======================== INTRO ========================== -->
+
+<div align="center">
+
+# 👋 Hi, I'm **Radh Shahmat**
+
+### 💻 Full Stack Developer | AI/ML Enthusiast | Software Engineer
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=7F5AF0&center=true&vCenter=true&width=750&lines=Building+Modern+Web+Applications;Exploring+Artificial+Intelligence;Learning+New+Technologies;Turning+Ideas+Into+Real+World+Solutions;Code.+Build.+Learn.+Repeat." />
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE%20VIEWS&color=7F5AF0&style=for-the-badge" />
 
 </div>
 
 ---
 
-<!-- ===================== ABOUT ===================== -->
+<!-- ====================== ABOUT ME ========================= -->
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-Hi! I'm **Radh Shahmat**, a Computer Science & Engineering enthusiast who loves building things with code.
+Hi! I'm **Radh Shahmat**, a Computer Science & Engineering enthusiast passionate about building modern, scalable, and user-focused software applications.
 
-I'm interested in **Full-Stack Development, Artificial Intelligence, Machine Learning, Natural Language Processing, and Data Science**.
+I enjoy working across the **frontend and backend**, exploring **Artificial Intelligence, Machine Learning & Natural Language Processing**, and continuously improving my software engineering skills.
 
-- 🔭 Currently working on **Full-Stack & AI-based projects**
-- 🌱 Currently improving my **React, Node.js, Next.js & TypeScript** skills
-- 🤖 Exploring **AI, Machine Learning & NLP**
-- 💡 I enjoy turning ideas into **real-world applications**
-- 🧠 Interested in **problem solving and software engineering**
-- 🚀 Believe in **learning by building**
-- 🎯 Goal: Become a highly skilled **Full-Stack & AI Developer**
-- ⚡ Fun fact: I enjoy experimenting with new technologies
+I believe in **learning by building**, solving real-world problems, and continuously improving through hands-on projects.
 
-<br>
+### 🚀 Currently
+
+- 🔭 I'm working on **Full Stack Web Development projects**
+- 🌱 I'm exploring **Next.js and TypeScript**
+- 🤖 I'm exploring **Artificial Intelligence, Machine Learning & NLP**
+- 🧠 I'm improving my **problem-solving and software engineering skills**
+- 🎨 I'm learning more about **modern UI/UX design**
+- ⚡ I'm building practical projects to strengthen my **real-world development skills**
+- 📚 I'm continuously learning new technologies and development practices
 
 ---
 
-<!-- ===================== TECH STACK ===================== -->
+<!-- ===================== TECH STACK ======================== -->
 
-## 🛠️ Tech Stack
+## 🛠️ Skills & Technologies
 
-### 🎨 Frontend
+### 🌐 Frontend Development
 
-<p>
+<p align="left">
+
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs" />
+
 </p>
 
-### ⚙️ Backend
+### ⚙️ Backend Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,firebase" />
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+
 </p>
 
 ### 🗄️ Database
 
-<p>
+<p align="left">
+
 <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+
 </p>
 
-### 🤖 AI / ML / Data
+### 🤖 AI / Machine Learning
 
-<p>
+<p align="left">
+
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+
 </p>
 
 ### 🔧 Tools & Platforms
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel" />
+<p align="left">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,vercel" />
+
 </p>
 
 ---
 
-<!-- ===================== CURRENTLY ===================== -->
+<!-- ================= DEVELOPMENT FOCUS ===================== -->
 
-## 🚧 Currently Learning
+## 🎯 Development Focus
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="33%">
+
+### 💻 Full Stack
+
+React.js  
+Next.js  
+TypeScript  
+Node.js  
+Express.js  
+MongoDB
+
+</td>
+
+<td align="center" width="33%">
+
+### 🤖 AI / ML
+
+Machine Learning  
+Natural Language Processing  
+Data Analysis  
+AI Applications  
+Intelligent Systems
+
+</td>
+
+<td align="center" width="33%">
+
+### 🧠 Engineering
+
+Clean Code  
+Problem Solving  
+REST APIs  
+Scalable Applications  
+UI/UX
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+<!-- ================= FEATURED PROJECTS ===================== -->
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/YOUR_USERNAME/YOUR_PROJECT_1">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_PROJECT_1&theme=tokyonight&hide_border=true" />
+
+</a>
+
+<a href="https://github.com/YOUR_USERNAME/YOUR_PROJECT_2">
+
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_PROJECT_2&theme=tokyonight&hide_border=true" />
+
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<a href="https://github.com/YOUR_USERNAME/YOUR_PROJECT_1">
+
+<img src="https://img.shields.io/badge/🚀%20Project%201-VIEW%20PROJECT-7F5AF0?style=for-the-badge" />
+
+</a>
+
+<a href="https://github.com/YOUR_USERNAME/YOUR_PROJECT_2">
+
+<img src="https://img.shields.io/badge/🤖%20Project%202-VIEW%20PROJECT-00D9FF?style=for-the-badge" />
+
+</a>
+
+</div>
+
+---
+
+<!-- ================= GITHUB STATISTICS ===================== -->
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180"
+src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+
+<img height="180"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img
+src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"
+width="70%"
+/>
+
+</div>
+
+---
+
+<!-- ================= CONTRIBUTION SNAKE ==================== -->
+
+## 🐍 Contribution Journey
+
+<div align="center">
+
+<img
+src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"
+alt="GitHub Contribution Snake"
+/>
+
+</div>
+
+---
+
+<!-- ================= ACTIVITY GRAPH ======================== -->
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true"
+width="100%"
+/>
+
+</div>
+
+---
+
+<!-- ===================== GOALS ============================== -->
+
+## 🎯 2026 Goals
+
+<div align="center">
+
+| Status | Goal |
+|:---:|:---|
+| ✅ | Strengthen JavaScript fundamentals |
+| ✅ | Learn React.js |
+| ✅ | Learn Node.js & Express.js |
+| ✅ | Work with MongoDB |
+| 🔄 | Master TypeScript |
+| 🔄 | Build production-ready Next.js applications |
+| 🔄 | Improve AI / Machine Learning skills |
+| 🔄 | Build NLP-based applications |
+| 🔄 | Contribute to Open Source |
+| 🎯 | Build real-world Full Stack applications |
+
+</div>
+
+---
+
+<!-- ================= LEARNING JOURNEY ====================== -->
+
+## 📚 Learning Journey
 
 ```text
-Frontend
- ├── React.js
- ├── Next.js
- ├── TypeScript
- └── Advanced UI/UX
-
-Backend
- ├── Node.js
- ├── Express.js
- ├── REST APIs
- └── Authentication
-
-Database
- ├── MongoDB
- └── Database Design
-
-AI / ML
- ├── Machine Learning
- ├── Natural Language Processing
- ├── Data Analysis
- └── AI-powered Applications
+HTML → CSS → JavaScript → ES6
+                    ↓
+              TypeScript
+                    ↓
+                React.js
+                    ↓
+                Next.js
+                    ↓
+              Node.js
+                    ↓
+              Express.js
+                    ↓
+             MongoDB / MySQL
+                    ↓
+          Full Stack Development
+                    ↓
+          AI / ML / NLP
+                    ↓
+        Real-World Applications 🚀
