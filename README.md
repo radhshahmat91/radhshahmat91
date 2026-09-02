@@ -1,10 +1,3 @@
-<!-- ========================================================= -->
-<!--                    RADH SHAHMAT                           -->
-<!--                 GITHUB PROFILE README                     -->
-<!-- ========================================================= -->
-
-<!-- ======================= BANNER ========================== -->
-
 <div align="center">
 
 <img src="./assets/github-banner.png" width="100%" alt="Radh Shahmat - Full Stack Developer">
@@ -13,7 +6,6 @@
 
 <br>
 
-<!-- ======================== INTRO ========================== -->
 
 <div align="center">
 
@@ -230,14 +222,14 @@ alt="GitHub Streak"
 
 ## 🐍 Contribution Journey
 
-<div align="center">
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Sutil/Sutil/2b2fad3bf54522bb30c8c170591fc68ff51b69e6/github-contribution-grid-snake2.svg"
+    alt="GitHub Contribution Snake"
+    width="100%"
+  />
+</p>
 
-<img
-src="https://raw.githubusercontent.com/radhshahmat91/radhshahmat91/output/github-contribution-grid-snake-dark.svg"
-alt="https://github.com/radhshahmat91/radhshahmat91/tree/main/.github/workflows"
-/>
-
-</div>
 
 ---
 
