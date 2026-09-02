@@ -1,10 +1,3 @@
-<!-- ========================================================= -->
-<!--                    RADH SHAHMAT                           -->
-<!--                 GITHUB PROFILE README                     -->
-<!-- ========================================================= -->
-
-<!-- ======================= BANNER ========================== -->
-
 <div align="center">
 
 <img src="https://github.com/radhshahmat91/radhshahmat91/blob/main/ChatGPT%20Image%20Sep%202%2C%202026%2C%2009_24_50%20PM.png">
@@ -13,7 +6,7 @@
 
 <br>
 
-<!-- ======================== INTRO ========================== -->
+
 
 <div align="center">
 
@@ -246,53 +239,3 @@ width="100%"
 />
 
 </div>
-
----
-
-<!-- ===================== GOALS ============================== -->
-
-## 🎯 2026 Goals
-
-<div align="center">
-
-| Status | Goal |
-|:---:|:---|
-| ✅ | Strengthen JavaScript fundamentals |
-| ✅ | Learn React.js |
-| ✅ | Learn Node.js & Express.js |
-| ✅ | Work with MongoDB |
-| 🔄 | Master TypeScript |
-| 🔄 | Build production-ready Next.js applications |
-| 🔄 | Improve AI / Machine Learning skills |
-| 🔄 | Build NLP-based applications |
-| 🔄 | Contribute to Open Source |
-| 🎯 | Build real-world Full Stack applications |
-
-</div>
-
----
-
-<!-- ================= LEARNING JOURNEY ====================== -->
-
-## 📚 Learning Journey
-
-```text
-HTML → CSS → JavaScript → ES6
-                    ↓
-              TypeScript
-                    ↓
-                React.js
-                    ↓
-                Next.js
-                    ↓
-              Node.js
-                    ↓
-              Express.js
-                    ↓
-             MongoDB / MySQL
-                    ↓
-          Full Stack Development
-                    ↓
-          AI / ML / NLP
-                    ↓
-        Real-World Applications 🚀
