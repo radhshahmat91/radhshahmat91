@@ -50,7 +50,7 @@ I believe in **learning by building**, solving real-world problems, and continuo
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,ES6,react,nextjs" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs" />
 
 </p>
 
@@ -191,25 +191,11 @@ UI/UX
   />
 </p>
 
-## 🎯 Current Goals
-
-<div align="center">
-|:---:|:---|
-| 🔄 | Master TypeScript |
-| 🔄 | Build production-ready Next.js applications |
-| 🔄 | Improve Full Stack Development skills |
-| 🔄 | Build AI-powered applications |
-| 🔄 | Improve Machine Learning & NLP skills |
-| 🔄 | Contribute to Open Source |
-| 🎯 | Build impactful real-world projects |
-
-</div>
-<!-- ======================= FOOTER ======================= -->
 
 <p align="center">
   <b>Thanks for visiting my profile! ❤️</b>
 </p>
-
+<br>
 <p align="center">
   <i>Let's build something amazing together 🚀</i>
 </p>
