@@ -1,12 +1,19 @@
+<!-- ========================================================= -->
+<!--                    RADH SHAHMAT                           -->
+<!--                 GITHUB PROFILE README                     -->
+<!-- ========================================================= -->
+
+<!-- ======================= BANNER ========================== -->
+
 <div align="center">
 
-<img src="https://github.com/radhshahmat91/radhshahmat91/blob/main/ChatGPT%20Image%20Sep%202%2C%202026%2C%2009_24_50%20PM.png">
+<img src="./assets/github-banner.png" width="100%" alt="Radh Shahmat - Full Stack Developer">
 
 </div>
 
 <br>
 
-
+<!-- ======================== INTRO ========================== -->
 
 <div align="center">
 
@@ -18,7 +25,7 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE%20VIEWS&color=7F5AF0&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=radhshahmat91&label=PROFILE%20VIEWS&color=7F5AF0&style=for-the-badge" />
 
 </div>
 
@@ -28,21 +35,21 @@
 
 ## 👨‍💻 About Me
 
-Hi! I'm **Radh Shahmat**, a Computer Science & Engineering enthusiast passionate about building modern, scalable, and user-focused software applications.
+I'm **Radh Shahmat**, a Computer Science & Engineering enthusiast passionate about building modern, scalable, and user-focused software applications.
 
-I enjoy working across the **frontend and backend**, exploring **Artificial Intelligence, Machine Learning & Natural Language Processing**, and continuously improving my software engineering skills.
+I enjoy working across the **frontend and backend**, exploring **Artificial Intelligence, Machine Learning, Natural Language Processing**, and continuously improving my software engineering skills.
 
-I believe in **learning by building**, solving real-world problems, and continuously improving through hands-on projects.
+I believe in **learning by building**, solving real-world problems, and turning ideas into useful digital experiences.
 
 ### 🚀 Currently
 
-- 🔭 I'm working on **Full Stack Web Development projects**
-- 🌱 I'm exploring **Next.js and TypeScript**
-- 🤖 I'm exploring **Artificial Intelligence, Machine Learning & NLP**
-- 🧠 I'm improving my **problem-solving and software engineering skills**
-- 🎨 I'm learning more about **modern UI/UX design**
-- ⚡ I'm building practical projects to strengthen my **real-world development skills**
-- 📚 I'm continuously learning new technologies and development practices
+- 🔭 Working on **Full Stack Web Development projects**
+- 🌱 Exploring **Next.js & TypeScript**
+- 🤖 Exploring **Artificial Intelligence, Machine Learning & NLP**
+- 🧠 Improving my **problem-solving & software engineering skills**
+- 🎨 Learning more about **modern UI/UX design**
+- ⚡ Building practical projects to strengthen my **real-world development skills**
+- 📚 Continuously learning new technologies and development practices
 
 ---
 
@@ -131,8 +138,8 @@ Intelligent Systems
 ### 🧠 Engineering
 
 Clean Code  
-Problem Solving  
 REST APIs  
+Problem Solving  
 Scalable Applications  
 UI/UX
 
@@ -145,21 +152,21 @@ UI/UX
 
 ---
 
-<!-- ================= FEATURED PROJECTS ===================== -->
+<!-- ================= PINNED PROJECTS ======================= -->
 
-## 🚀 Featured Projects
+## 📌 Featured Projects
 
 <div align="center">
 
-<a href="https://github.com/radhshahmat91/Portfolio">
+<a href="https://github.com/radhshahmat91/ehealth">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_PROJECT_1&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=radhshahmat91&repo=ehealth&theme=tokyonight&hide_border=true" />
 
 </a>
 
-<a href="https://github.com/YOUR_USERNAME/YOUR_PROJECT_2">
+<a href="https://github.com/radhshahmat91/customer-churn-prediction">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_PROJECT_2&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=radhshahmat91&repo=customer-churn-prediction&theme=tokyonight&hide_border=true" />
 
 </a>
 
@@ -169,15 +176,15 @@ UI/UX
 
 <div align="center">
 
-<a href="https://github.com/radhshahmat91/Portfolio">
+<a href="https://github.com/radhshahmat91/P2PTransfer">
 
-<img src="https://img.shields.io/badge/🚀%20Project%201-VIEW%20PROJECT-7F5AF0?style=for-the-badge" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=radhshahmat91&repo=P2PTransfer&theme=tokyonight&hide_border=true" />
 
 </a>
 
-<a href="https://github.com/radhshahmat91/Assignment-">
+<a href="https://github.com/radhshahmat91/DrutoSheba">
 
-<img src="https://img.shields.io/badge/🤖%20Project%202-VIEW%20PROJECT-00D9FF?style=for-the-badge" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=radhshahmat91&repo=DrutoSheba&theme=tokyonight&hide_border=true" />
 
 </a>
 
@@ -191,11 +198,17 @@ UI/UX
 
 <div align="center">
 
-<img height="180"
-src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img
+height="180"
+src="https://github-readme-stats.vercel.app/api?username=radhshahmat91&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+alt="Radh Shahmat GitHub Stats"
+/>
 
-<img height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img
+height="180"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=radhshahmat91&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+alt="Top Languages"
+/>
 
 </div>
 
@@ -204,8 +217,9 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAM
 <div align="center">
 
 <img
-src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"
+src="https://github-readme-streak-stats.herokuapp.com/?user=radhshahmat91&theme=tokyonight&hide_border=true"
 width="70%"
+alt="GitHub Streak"
 />
 
 </div>
@@ -219,8 +233,8 @@ width="70%"
 <div align="center">
 
 <img
-src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"
-alt="GitHub Contribution Snake"
+src="https://raw.githubusercontent.com/radhshahmat91/radhshahmat91/output/github-contribution-grid-snake-dark.svg"
+alt="https://github.com/radhshahmat91/radhshahmat91/tree/main/.github/workflows"
 />
 
 </div>
@@ -234,7 +248,14 @@ alt="GitHub Contribution Snake"
 <div align="center">
 
 <img
-src="https://github.com/radhshahmat91/radhshahmat91/tree/main/.github/workflows"
+src="https://github-readme-activity-graph.vercel.app/graph?username=radhshahmat91&theme=tokyo-night&hide_border=true&area=true"
+width="100%"
+alt="Contribution Activity"
 />
 
 </div>
+
+
+
+<!-- ================= LEARNING JOURNEY ====================== -->
+
