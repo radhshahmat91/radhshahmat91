@@ -1,7 +1,7 @@
 <!-- ===================== HERO ===================== -->
 
 <div align="center">
-<img src="./https://github.com/radhshahmat91/radhshahmat91/blob/main/ChatGPT%20Image%20Sep%202%2C%202026%2C%2006_57_14%20PM.png">
+<img src="https://github.com/radhshahmat91/radhshahmat91/blob/main/ChatGPT%20Image%20Sep%202%2C%202026%2C%2006_57_14%20PM.png">
 
 
 # 👋 Hey, I'm **Radh Shahmat**
@@ -11,8 +11,6 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7F5AF0&center=true&vCenter=true&width=650&lines=Building+Modern+Web+Applications;Exploring+Artificial+Intelligence;Learning+Something+New+Every+Day;Turning+Ideas+Into+Real+Projects" />
 
 <br>
-
-<img src="">
 
 </div>
 
