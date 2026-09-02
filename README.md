@@ -11,6 +11,7 @@ GitHub LinkedIn Email Portfolio
 Hi! I'm Radh Shahmat, a Computer Science & Engineering graduate (United International University, Dhaka) who loves building things with code. I'm interested in Full-Stack Development, Artificial Intelligence, Machine Learning, Natural Language Processing, and Data Science.
 
 🔭 Currently working full-time in a technical role, alongside personal Full-Stack & AI-based projects
+🌱 Currently improving my React, Node.js, Next.js & TypeScript skills
 🤖 Exploring AI, Machine Learning & NLP — my thesis, RHA-IDS, used a neural network for network intrusion detection
 💡 I enjoy turning ideas into real-world applications, like Ledger, my full-stack e-commerce platform
 🧠 Interested in problem solving and software engineering
