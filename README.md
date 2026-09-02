@@ -10,8 +10,7 @@
 
 <br>
 
-<img src="![Uploading ChatGPT Image Sep 2, 2026, 06_57_14 PM.png…]()
->
+<img src="https://github.com/radhshahmat91/radhshahmat91/blob/main/ChatGPT%20Image%20Sep%202%2C%202026%2C%2006_57_14%20PM.png">
 
 </div>
 
