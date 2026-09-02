@@ -10,7 +10,8 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=radhshahmat91&label=Profile%20Views&color=7F5AF0&style=for-the-badge" />
+<img src="![Uploading ChatGPT Image Sep 2, 2026, 06_57_14 PM.png…]()
+>
 
 </div>
 
