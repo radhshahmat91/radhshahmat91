@@ -18,11 +18,7 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE%20VIEWS&color=7F5AF0&style=for-the-badge" />
-
 </div>
-
----
 
 <!-- ====================== ABOUT ME ========================= -->
 
@@ -54,7 +50,7 @@ I believe in **learning by building**, solving real-world problems, and continuo
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,ES6,react,nextjs" />
 
 </p>
 
@@ -62,7 +58,7 @@ I believe in **learning by building**, solving real-world problems, and continuo
 
 <p align="left">
 
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nextjs" />
 
 </p>
 
@@ -183,35 +179,6 @@ UI/UX
 
 </div>
 
----
-
-<!-- ================= GITHUB STATISTICS ===================== -->
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180"
-src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-
-<img height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img
-src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"
-width="70%"
-/>
-
-</div>
-
----
-
 <!-- ================= CONTRIBUTION SNAKE ==================== -->
 
 ## 🐍 Contribution Journey
@@ -224,26 +191,9 @@ width="70%"
   />
 </p>
 
-
-
-<!-- ================= ACTIVITY GRAPH ======================== -->
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true"
-width="100%"
-/>
-
-</div>
-
 ## 🎯 Current Goals
 
 <div align="center">
-
-| 🚀 | Goal |
 |:---:|:---|
 | 🔄 | Master TypeScript |
 | 🔄 | Build production-ready Next.js applications |
