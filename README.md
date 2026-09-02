@@ -158,7 +158,7 @@ UI/UX
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME/YOUR_PROJECT_1">
+<a href="https://github.com/radhshahmat91/Portfolio">
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_PROJECT_1&theme=tokyonight&hide_border=true" />
 
@@ -176,13 +176,13 @@ UI/UX
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME/YOUR_PROJECT_1">
+<a href="https://github.com/radhshahmat91/Portfolio">
 
 <img src="https://img.shields.io/badge/🚀%20Project%201-VIEW%20PROJECT-7F5AF0?style=for-the-badge" />
 
 </a>
 
-<a href="https://github.com/YOUR_USERNAME/YOUR_PROJECT_2">
+<a href="https://github.com/radhshahmat91/Assignment-">
 
 <img src="https://img.shields.io/badge/🤖%20Project%202-VIEW%20PROJECT-00D9FF?style=for-the-badge" />
 
