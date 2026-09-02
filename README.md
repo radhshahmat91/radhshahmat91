@@ -6,6 +6,7 @@
 
 <br>
 
+<!-- ======================== INTRO ========================== -->
 
 <div align="center">
 
@@ -17,7 +18,7 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=radhshahmat91&label=PROFILE%20VIEWS&color=7F5AF0&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE%20VIEWS&color=7F5AF0&style=for-the-badge" />
 
 </div>
 
@@ -27,21 +28,21 @@
 
 ## 👨‍💻 About Me
 
-I'm **Radh Shahmat**, a Computer Science & Engineering enthusiast passionate about building modern, scalable, and user-focused software applications.
+Hi! I'm **Radh Shahmat**, a Computer Science & Engineering enthusiast passionate about building modern, scalable, and user-focused software applications.
 
-I enjoy working across the **frontend and backend**, exploring **Artificial Intelligence, Machine Learning, Natural Language Processing**, and continuously improving my software engineering skills.
+I enjoy working across the **frontend and backend**, exploring **Artificial Intelligence, Machine Learning & Natural Language Processing**, and continuously improving my software engineering skills.
 
-I believe in **learning by building**, solving real-world problems, and turning ideas into useful digital experiences.
+I believe in **learning by building**, solving real-world problems, and continuously improving through hands-on projects.
 
 ### 🚀 Currently
 
-- 🔭 Working on **Full Stack Web Development projects**
-- 🌱 Exploring **Next.js & TypeScript**
-- 🤖 Exploring **Artificial Intelligence, Machine Learning & NLP**
-- 🧠 Improving my **problem-solving & software engineering skills**
-- 🎨 Learning more about **modern UI/UX design**
-- ⚡ Building practical projects to strengthen my **real-world development skills**
-- 📚 Continuously learning new technologies and development practices
+- 🔭 I'm working on **Full Stack Web Development projects**
+- 🌱 I'm exploring **Next.js and TypeScript**
+- 🤖 I'm exploring **Artificial Intelligence, Machine Learning & NLP**
+- 🧠 I'm improving my **problem-solving and software engineering skills**
+- 🎨 I'm learning more about **modern UI/UX design**
+- ⚡ I'm building practical projects to strengthen my **real-world development skills**
+- 📚 I'm continuously learning new technologies and development practices
 
 ---
 
@@ -130,8 +131,8 @@ Intelligent Systems
 ### 🧠 Engineering
 
 Clean Code  
-REST APIs  
 Problem Solving  
+REST APIs  
 Scalable Applications  
 UI/UX
 
@@ -144,21 +145,21 @@ UI/UX
 
 ---
 
-<!-- ================= PINNED PROJECTS ======================= -->
+<!-- ================= FEATURED PROJECTS ===================== -->
 
-## 📌 Featured Projects
+## 🚀 Featured Projects
 
 <div align="center">
 
-<a href="https://github.com/radhshahmat91/ehealth">
+<a href="https://github.com/radhshahmat91/Portfolio">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=radhshahmat91&repo=ehealth&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_PROJECT_1&theme=tokyonight&hide_border=true" />
 
 </a>
 
-<a href="https://github.com/radhshahmat91/customer-churn-prediction">
+<a href="https://github.com/YOUR_USERNAME/YOUR_PROJECT_2">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=radhshahmat91&repo=customer-churn-prediction&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=YOUR_PROJECT_2&theme=tokyonight&hide_border=true" />
 
 </a>
 
@@ -168,15 +169,15 @@ UI/UX
 
 <div align="center">
 
-<a href="https://github.com/radhshahmat91/P2PTransfer">
+<a href="https://github.com/radhshahmat91/Portfolio">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=radhshahmat91&repo=P2PTransfer&theme=tokyonight&hide_border=true" />
+<img src="https://img.shields.io/badge/🚀%20Project%201-VIEW%20PROJECT-7F5AF0?style=for-the-badge" />
 
 </a>
 
-<a href="https://github.com/radhshahmat91/DrutoSheba">
+<a href="https://github.com/radhshahmat91/Assignment-">
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=radhshahmat91&repo=DrutoSheba&theme=tokyonight&hide_border=true" />
+<img src="https://img.shields.io/badge/🤖%20Project%202-VIEW%20PROJECT-00D9FF?style=for-the-badge" />
 
 </a>
 
@@ -190,17 +191,11 @@ UI/UX
 
 <div align="center">
 
-<img
-height="180"
-src="https://github-readme-stats.vercel.app/api?username=radhshahmat91&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
-alt="Radh Shahmat GitHub Stats"
-/>
+<img height="180"
+src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 
-<img
-height="180"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=radhshahmat91&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
-alt="Top Languages"
-/>
+<img height="180"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
@@ -209,9 +204,8 @@ alt="Top Languages"
 <div align="center">
 
 <img
-src="https://github-readme-streak-stats.herokuapp.com/?user=radhshahmat91&theme=tokyonight&hide_border=true"
+src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"
 width="70%"
-alt="GitHub Streak"
 />
 
 </div>
@@ -231,7 +225,6 @@ alt="GitHub Streak"
 </p>
 
 
----
 
 <!-- ================= ACTIVITY GRAPH ======================== -->
 
@@ -240,14 +233,33 @@ alt="GitHub Streak"
 <div align="center">
 
 <img
-src="https://github-readme-activity-graph.vercel.app/graph?username=radhshahmat91&theme=tokyo-night&hide_border=true&area=true"
+src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true"
 width="100%"
-alt="Contribution Activity"
 />
 
 </div>
 
+## 🎯 Current Goals
 
+<div align="center">
 
-<!-- ================= LEARNING JOURNEY ====================== -->
+| 🚀 | Goal |
+|:---:|:---|
+| 🔄 | Master TypeScript |
+| 🔄 | Build production-ready Next.js applications |
+| 🔄 | Improve Full Stack Development skills |
+| 🔄 | Build AI-powered applications |
+| 🔄 | Improve Machine Learning & NLP skills |
+| 🔄 | Contribute to Open Source |
+| 🎯 | Build impactful real-world projects |
 
+</div>
+<!-- ======================= FOOTER ======================= -->
+
+<p align="center">
+  <b>Thanks for visiting my profile! ❤️</b>
+</p>
+
+<p align="center">
+  <i>Let's build something amazing together 🚀</i>
+</p>
