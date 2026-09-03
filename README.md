@@ -181,6 +181,8 @@ UI/UX
 
 </div>
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=radhshahmat91&theme=dark" alt="GitHub Streak" /></a>
+
 <!-- ================= CONTRIBUTION SNAKE ==================== -->
 
 ## 🐍 Contribution Journey
