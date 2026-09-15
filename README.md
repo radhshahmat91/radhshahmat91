@@ -151,86 +151,170 @@ UI/UX
 <table>
 <tr>
 
+<!-- ================= ACADEMIACONNECT ================= -->
+
 <td width="50%" align="center">
 
-### 🎓 AcademiaConnect
+<h3>🎓 AcademiaConnect</h3>
 
 <a href="https://github.com/radhshahmat91/AcademiaConnect">
-<img src="https://opengraph.githubassets.com/1/radhshahmat91/AcademiaConnect" width="450" alt="AcademiaConnect">
+<img
+  src="https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1000&q=85"
+  width="450"
+  height="240"
+  style="object-fit:cover; border-radius:12px;"
+  alt="Students studying together"
+/>
 </a>
 
-<br>
+<br><br>
+
+<p>
+A university platform connecting students with courses,
+clubs, events, notices and campus resources.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+</p>
 
 <a href="https://academiaconnect-msms.onrender.com/">
 <img src="https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Website-7F5AF0?style=for-the-badge" />
 </a>
 
 <a href="https://github.com/radhshahmat91/AcademiaConnect">
-<img src="https://img.shields.io/badge/💻%20GitHub-View%20Repository-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/💻%20GitHub-Repository-181717?style=for-the-badge&logo=github" />
 </a>
 
 </td>
 
+
+<!-- ================= VELORA ================= -->
+
 <td width="50%" align="center">
 
-### 🍽️ Velora Restaurant
+<h3>🍽️ Velora Restaurant</h3>
 
 <a href="https://github.com/radhshahmat91/Velora-Restaurant">
-<img src="https://opengraph.githubassets.com/1/radhshahmat91/Velora-Restaurant" width="450" alt="Velora Restaurant">
+<img
+  src="https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1000&q=85"
+  width="450"
+  height="240"
+  style="object-fit:cover; border-radius:12px;"
+  alt="Elegant restaurant interior"
+/>
 </a>
 
-<br>
+<br><br>
+
+<p>
+A full-stack restaurant platform featuring menu browsing,
+cart, checkout, reservations, events and admin management.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+</p>
 
 <a href="https://client-six-omega-40.vercel.app/">
 <img src="https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Website-00D9FF?style=for-the-badge" />
 </a>
 
 <a href="https://github.com/radhshahmat91/Velora-Restaurant">
-<img src="https://img.shields.io/badge/💻%20GitHub-View%20Repository-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/💻%20GitHub-Repository-181717?style=for-the-badge&logo=github" />
 </a>
 
 </td>
 
 </tr>
 
+
 <tr>
+
+<!-- ================= VROOMLY ================= -->
 
 <td width="50%" align="center">
 
-### 🚗 Vroomly
+<h3>🚗 Vroomly</h3>
 
 <a href="https://github.com/radhshahmat91/vroomly">
-<img src="https://opengraph.githubassets.com/1/radhshahmat91/vroomly" width="450" alt="Vroomly">
+<img
+  src="https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?auto=format&fit=crop&w=1000&q=85"
+  width="450"
+  height="240"
+  style="object-fit:cover; border-radius:12px;"
+  alt="Premium cars"
+/>
 </a>
 
-<br>
+<br><br>
+
+<p>
+A peer-to-peer car rental marketplace where users can
+search, book and rent vehicles with secure payments.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
+</p>
 
 <a href="https://vroomly-six.vercel.app/">
 <img src="https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Website-7F5AF0?style=for-the-badge" />
 </a>
 
 <a href="https://github.com/radhshahmat91/vroomly">
-<img src="https://img.shields.io/badge/💻%20GitHub-View%20Repository-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/💻%20GitHub-Repository-181717?style=for-the-badge&logo=github" />
 </a>
 
 </td>
 
+
+<!-- ================= JOBHUNT ================= -->
+
 <td width="50%" align="center">
 
-### 💼 Jobhunt
+<h3>💼 Jobhunt</h3>
 
 <a href="https://github.com/radhshahmat91/jobhunt">
-<img src="https://opengraph.githubassets.com/1/radhshahmat91/jobhunt" width="450" alt="Jobhunt">
+<img
+  src="https://images.unsplash.com/photo-1499750310107-5fef28a66643?auto=format&fit=crop&w=1000&q=85"
+  width="450"
+  height="240"
+  style="object-fit:cover; border-radius:12px;"
+  alt="Professional workspace for job searching"
+/>
 </a>
 
-<br>
+<br><br>
+
+<p>
+A role-based job platform connecting job seekers and employers
+with job search, applications and applicant management.
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+</p>
 
 <a href="https://jobhunt-opal.vercel.app/">
 <img src="https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Website-00D9FF?style=for-the-badge" />
 </a>
 
 <a href="https://github.com/radhshahmat91/jobhunt">
-<img src="https://img.shields.io/badge/💻%20GitHub-View%20Repository-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/💻%20GitHub-Repository-181717?style=for-the-badge&logo=github" />
 </a>
 
 </td>
