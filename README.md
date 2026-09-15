@@ -21,7 +21,8 @@
 </div>
 
 <!-- ====================== ABOUT ME ========================= -->
-<a href="https://radhshahmat91.github.io/Portfolio/="color: #ff5733; text-decoration: none; font-weight: bold; font-family: sans-serif;">Portfolio</a>
+<a href="https://radhshahmat91.github.io/Portfolio/" style="color: #ff5733; text-decoration: none; font-weight: bold; font-family: sans-serif;">Portfolio</a>
+
 
 
 ## 👨‍💻 About Me
