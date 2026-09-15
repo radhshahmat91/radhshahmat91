@@ -144,45 +144,119 @@ UI/UX
 </div>
 
 ---
-
 <!-- ================= FEATURED PROJECTS ===================== -->
 
 ## 🚀 Featured Projects
 
+<table>
+<tr>
+
+<td width="50%" align="center">
+
+### 🎓 AcademiaConnect
+
+<a href="https://github.com/radhshahmat91/AcademiaConnect">
+<img src="https://opengraph.githubassets.com/1/radhshahmat91/AcademiaConnect" width="450" alt="AcademiaConnect">
+</a>
+
+<br>
+
+<a href="https://academiaconnect-msms.onrender.com/">
+<img src="https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Website-7F5AF0?style=for-the-badge" />
+</a>
+
+<a href="https://github.com/radhshahmat91/AcademiaConnect">
+<img src="https://img.shields.io/badge/💻%20GitHub-View%20Repository-181717?style=for-the-badge&logo=github" />
+</a>
+
+</td>
+
+<td width="50%" align="center">
+
+### 🍽️ Velora Restaurant
+
+<a href="https://github.com/radhshahmat91/Velora-Restaurant">
+<img src="https://opengraph.githubassets.com/1/radhshahmat91/Velora-Restaurant" width="450" alt="Velora Restaurant">
+</a>
+
+<br>
+
+<a href="https://client-six-omega-40.vercel.app/">
+<img src="https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Website-00D9FF?style=for-the-badge" />
+</a>
+
+<a href="https://github.com/radhshahmat91/Velora-Restaurant">
+<img src="https://img.shields.io/badge/💻%20GitHub-View%20Repository-181717?style=for-the-badge&logo=github" />
+</a>
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
+
+### 🚗 Vroomly
+
+<a href="https://github.com/radhshahmat91/vroomly">
+<img src="https://opengraph.githubassets.com/1/radhshahmat91/vroomly" width="450" alt="Vroomly">
+</a>
+
+<br>
+
+<a href="https://vroomly-six.vercel.app/">
+<img src="https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Website-7F5AF0?style=for-the-badge" />
+</a>
+
+<a href="https://github.com/radhshahmat91/vroomly">
+<img src="https://img.shields.io/badge/💻%20GitHub-View%20Repository-181717?style=for-the-badge&logo=github" />
+</a>
+
+</td>
+
+<td width="50%" align="center">
+
+### 💼 Jobhunt
+
+<a href="https://github.com/radhshahmat91/jobhunt">
+<img src="https://opengraph.githubassets.com/1/radhshahmat91/jobhunt" width="450" alt="Jobhunt">
+</a>
+
+<br>
+
+<a href="https://jobhunt-opal.vercel.app/">
+<img src="https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Website-00D9FF?style=for-the-badge" />
+</a>
+
+<a href="https://github.com/radhshahmat91/jobhunt">
+<img src="https://img.shields.io/badge/💻%20GitHub-View%20Repository-181717?style=for-the-badge&logo=github" />
+</a>
+
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<!-- ================= PROJECT TECHNOLOGIES ===================== -->
+
 <div align="center">
 
-<a href="https://github.com/radhshahmat91/Portfolio">
-
-
-
-</a>
-
-<a href="https://github.com/YOUR_USERNAME/YOUR_PROJECT_2">
-
-</a>
+| Project | Technologies |
+|:---:|:---|
+| 🎓 **AcademiaConnect** | React · Node.js · Express · MongoDB · Socket.io · JWT |
+| 🍽️ **Velora** | React · Vite · Node.js · Express · MongoDB · Mongoose · Vercel · Render |
+| 🚗 **Vroomly** | React · Node.js · Express · MongoDB · Stripe |
+| 💼 **Jobhunt** | React · Node.js · Express · MongoDB |
 
 </div>
 
 <br>
 
-<div align="center">
+<!-- ================= GITHUB STREAK ==================== -->
 
-<a href="https://github.com/radhshahmat91/Portfolio">
-
-<img src="https://img.shields.io/badge/🚀%20Project%201-VIEW%20PROJECT-7F5AF0?style=for-the-badge" />
-
-</a>
-
-<a href="https://github.com/radhshahmat91/Assignment-">
-
-<img src="https://img.shields.io/badge/🤖%20Project%202-VIEW%20PROJECT-00D9FF?style=for-the-badge" />
-
-</a>
-
-</div>
-
-<br>
-<!-- ================= Github Streak ==================== -->
 <br>
 
 ## 🚀 GitHub Streak
