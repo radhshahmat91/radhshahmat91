@@ -22,7 +22,7 @@
 
 <!-- ====================== ABOUT ME ========================= -->
 <a href="https://radhshahmat91.github.io/Portfolio/" style="color: #ff5733; text-decoration: none; font-weight: bold; font-family: sans-serif;">Portfolio</a> || <a href="https://radhshahmat91.github.io/Portfolio/Radh_Shahmat_CV_Final.pdf" style="color: #ff5733; text-decoration: none; font-weight: bold; font-family: sans-serif;"> 📄Resume
-</a> || <a href="https://www.linkedin.com/feed/" style="color: #ff5733; text-decoration: none; font-weight: bold; font-family: sans-serif;">Linkedin</a>
+</a> || <a href="https://www.linkedin.com/in/radh-shahmat-5b5420439/" style="color: #ff5733; text-decoration: none; font-weight: bold; font-family: sans-serif;">Linkedin</a>
 
 
 
