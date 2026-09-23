@@ -1,10 +1,12 @@
 <div align="center">
+<img src="ChatGPT Image Sep 3, 2026, 03_45_41 AM.png" />
+
 
 # 👋 Hi, I'm Radh Shahmat
 
 ### 💻 Full-Stack Developer | AI/ML & NLP Enthusiast
 
-<img src="ChatGPT Image Sep 3, 2026, 03_45_41 AM.png" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=7F5AF0&center=true&vCenter=true&width=750&lines=Building+Modern+Web+Applications;Exploring+Artificial+Intelligence;Exploring+Machine+Learning+%26+NLP;Turning+Ideas+Into+Real+World+Solutions;Learning+By+Building;Code.+Build.+Learn.+Repeat." />
 
 <br>
 
@@ -12,7 +14,7 @@
   <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-7F5AF0?style=for-the-badge" />
 </a>
 
-<a href="Radh_Shahmat_CV.pdf">
+<a href="https://raw.githubusercontent.com/radhshahmat91/radhshahmat91/main/Radh_Shahmat_CV.pdf" target="_blank">
   <img src="https://img.shields.io/badge/📄%20Resume-View%20CV-FF5733?style=for-the-badge" />
 </a>
 
