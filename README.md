@@ -21,7 +21,7 @@
 </div>
 
 <!-- ====================== ABOUT ME ========================= -->
-<a href="https://radhshahmat91.github.io/Portfolio/" style="color: #ff5733; text-decoration: none; font-weight: bold; font-family: sans-serif;">Portfolio</a> || <a          href="Radh_Shahmat_CV.pdf" style="color: #ff5733; text-decoration: none; font-weight: bold; font-family: sans-serif;"> 📄Resume
+<a href="https://radhshahmat91.github.io/Portfolio/" style="color: #ff5733; text-decoration: none; font-weight: bold; font-family: sans-serif;">Portfolio</a> || <a href="Radh_Shahmat_CV.pdf" style="color: #ff5733; text-decoration: none; font-weight: bold; font-family: sans-serif;"> 📄Resume
 </a> || <a href="https://www.linkedin.com/in/radh-shahmat-5b5420439/" style="color: #ff5733; text-decoration: none; font-weight: bold; font-family: sans-serif;">Linkedin</a>
 
 
