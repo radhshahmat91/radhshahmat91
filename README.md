@@ -4,7 +4,7 @@
 
 ### 💻 Full-Stack Developer | AI/ML & NLP Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=7F5AF0&center=true&vCenter=true&width=750&lines=Building+Modern+Web+Applications;Exploring+Artificial+Intelligence;Exploring+Machine+Learning+%26+NLP;Turning+Ideas+Into+Real+World+Solutions;Learning+By+Building;Code.+Build.+Learn.+Repeat." />
+<img src="ChatGPT Image Sep 3, 2026, 03_45_41 AM.png" />
 
 <br>
 
