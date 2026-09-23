@@ -204,7 +204,7 @@ clubs, events, notices and campus resources.
 
 <h3>🍽️ Velora Restaurant</h3>
 
-<a href="https://github.com/radhshahmat91/Velora-Restaurant">
+<a href="https://github.com/radhshahmat91/velora-restaurant_2">
 <img
   src="https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1000&q=85"
   width="450"
@@ -228,11 +228,11 @@ cart, checkout, reservations, events and admin management.
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
 </p>
 
-<a href="https://client-six-omega-40.vercel.app/">
+<a href="https://velora-restaurant-2.vercel.app/">
 <img src="https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Website-00D9FF?style=for-the-badge" />
 </a>
 
-<a href="https://github.com/radhshahmat91/Velora-Restaurant">
+<a href="https://github.com/radhshahmat91/velora-restaurant_2">
 <img src="https://img.shields.io/badge/💻%20GitHub-Repository-181717?style=for-the-badge&logo=github" />
 </a>
 
