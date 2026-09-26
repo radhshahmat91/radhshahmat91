@@ -10,7 +10,7 @@
 
 <br>
 
-<a href="https://radhshahmat91.github.io/Portfolio/">
+<a href="https://radhshahmat91.github.io/portfolio-v2/">
   <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-7F5AF0?style=for-the-badge" />
 </a>
 
@@ -462,7 +462,7 @@ alt="GitHub Contribution Snake"
 <img src="https://img.shields.io/badge/LinkedIn-Radh%20Shahmat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://radhshahmat91.github.io/Portfolio/">
+<a href="https://radhshahmat91.github.io/portfolio-v2/">
 <img src="https://img.shields.io/badge/Portfolio-Visit-7F5AF0?style=for-the-badge" />
 </a>
 
