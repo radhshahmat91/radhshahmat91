@@ -149,7 +149,7 @@ Relevant areas:
 
 <h3>🎓 AcademiaConnect</h3>
 
-<a href="https://github.com/radhshahmat91/AcademiaConnect">
+<a href="https://github.com/radhshahmat91/AcademiaConnect-2">
 
 <img
 src="https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1000&q=85"
@@ -178,11 +178,11 @@ clubs, events, notices and campus resources.
 
 </p>
 
-<a href="https://academiaconnect-msms.onrender.com/">
+<a href="https://academia-connect-2.vercel.app/">
 <img src="https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Website-7F5AF0?style=for-the-badge" />
 </a>
 
-<a href="https://github.com/radhshahmat91/AcademiaConnect">
+<a href="https://github.com/radhshahmat91/AcademiaConnect-2">
 <img src="https://img.shields.io/badge/💻%20GitHub-Repository-181717?style=for-the-badge&logo=github" />
 </a>
 
