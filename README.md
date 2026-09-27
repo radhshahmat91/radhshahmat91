@@ -286,9 +286,9 @@ search, book and rent vehicles with secure payments.
 
 <td width="50%" align="center">
 
-<h3>💼 Jobhunt</h3>
+<h3>💼 JobNest</h3>
 
-<a href="https://github.com/radhshahmat91/jobhunt">
+<a href="https://github.com/radhshahmat91/JobNest-MERN">
 
 <img
 src="https://images.unsplash.com/photo-1499750310107-5fef28a66643?auto=format&fit=crop&w=1000&q=85"
@@ -316,11 +316,11 @@ with job search, applications and applicant management.
 
 </p>
 
-<a href="https://jobhunt-opal.vercel.app/">
+<a href="https://job-nest-mern.vercel.app/">
 <img src="https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Website-00D9FF?style=for-the-badge" />
 </a>
 
-<a href="https://github.com/radhshahmat91/jobhunt">
+<a href="https://github.com/radhshahmat91/JobNest-MERN">
 <img src="https://img.shields.io/badge/💻%20GitHub-Repository-181717?style=for-the-badge&logo=github" />
 </a>
 
