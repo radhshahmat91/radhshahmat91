@@ -188,13 +188,13 @@ clubs, events, notices and campus resources.
 
 </td>
 
-<!-- Velora -->
+<!-- Riz -->
 
 <td width="50%" align="center">
 
-<h3>🍽️ Velora Restaurant</h3>
+<h3>🍽️ Riz Restaurant</h3>
 
-<a href="https://github.com/radhshahmat91/velora-restaurant_2">
+<a href="https://github.com/radhshahmat91/Riz-Restaurant">
 
 <img
 src="https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1000&q=85"
@@ -223,11 +223,11 @@ cart, checkout, reservations, events and admin management.
 
 </p>
 
-<a href="https://velora-restaurant-2.vercel.app/">
+<a href="https://riz-restaurant.vercel.app/">
 <img src="https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Website-00D9FF?style=for-the-badge" />
 </a>
 
-<a href="https://github.com/radhshahmat91/velora-restaurant_2">
+<a href="https://github.com/radhshahmat91/Riz-Restaurant">
 <img src="https://img.shields.io/badge/💻%20GitHub-Repository-181717?style=for-the-badge&logo=github" />
 </a>
 
