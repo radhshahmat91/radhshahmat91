@@ -243,7 +243,7 @@ cart, checkout, reservations, events and admin management.
 
 <h3>🚗 Vroomly</h3>
 
-<a href="https://github.com/radhshahmat91/vroomly">
+<a href="https://github.com/radhshahmat91/Vroomly2">
 
 <img
 src="https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?auto=format&fit=crop&w=1000&q=85"
@@ -272,11 +272,11 @@ search, book and rent vehicles with secure payments.
 
 </p>
 
-<a href="https://vroomly-six.vercel.app/">
+<a href="https://vroomly2-kappa.vercel.app/">
 <img src="https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Website-7F5AF0?style=for-the-badge" />
 </a>
 
-<a href="https://github.com/radhshahmat91/vroomly">
+<a href="https://github.com/radhshahmat91/Vroomly2">
 <img src="https://img.shields.io/badge/💻%20GitHub-Repository-181717?style=for-the-badge&logo=github" />
 </a>
 
