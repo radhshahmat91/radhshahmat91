@@ -377,8 +377,8 @@ The research used manually annotated **Bangla, English, and Banglish** comments 
 | Project | Technologies |
 |:---:|:---|
 | 🎓 **AcademiaConnect** | Next.js 16 (App Router) · React 19 · TypeScript · Tailwind CSS 4 + DaisyUI 5 · Framer Motion · BetterAuth (MongoDB adapter, JWT plugin) · TanStack Query · Socket.io client · Recharts · Sonner toasts · React Icons (FaXTwitter) and Lucide. |
-| 🍽️ **Vroomly** | Next.js 16 (App Router, proxy.ts) · React 19 · TypeScript · Tailwind CSS v4 · DaisyUI 5 · BetterAuth (MongoDB adapter, jwt plugin) · TanStack Query · Axios · react-hook-form + Zod · Motion · Recharts · react-day-picker · Stripe Elements · Socket.IO client · Sonner. |
-| 🚗 **Elan** | Next.js 15 (App Router) . React 19, TypeScript in strict mode . Tailwind CSS 4 . Framer Motion 12 . Lenis . socket.io-client . Zod . react-icons . Node 22 . Express 5 . Mongoose 8 on MongoDB . Socket.IO 4 . Zod, Helmet . express-rate-limit . Multer and Cloudinary for uploads . Nodemailer . PDFKit. |
+| 🚗 **Vroomly** | Next.js 16 (App Router, proxy.ts) · React 19 · TypeScript · Tailwind CSS v4 · DaisyUI 5 · BetterAuth (MongoDB adapter, jwt plugin) · TanStack Query · Axios · react-hook-form + Zod · Motion · Recharts · react-day-picker · Stripe Elements · Socket.IO client · Sonner. |
+| 🍽️ **Elan** | Next.js 15 (App Router) . React 19, TypeScript in strict mode . Tailwind CSS 4 . Framer Motion 12 . Lenis . socket.io-client . Zod . react-icons . Node 22 . Express 5 . Mongoose 8 on MongoDB . Socket.IO 4 . Zod, Helmet . express-rate-limit . Multer and Cloudinary for uploads . Nodemailer . PDFKit. |
 | 💼 **BookNook** | Next.js (App Router) . React . TypeScript . Tailwind CSS 4 . daisyUI 5 . Framer Motion . Swiper, Sonner . BetterAuth + MongoDB adapter . jose (JWT signing)|
 
 ---
