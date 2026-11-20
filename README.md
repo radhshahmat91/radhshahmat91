@@ -10,7 +10,7 @@
 
 <br>
 
-<a href="https://radhshahmat91.github.io/Portfolio-V3/">
+<a href="https://radhshahmat91.github.io/radh-portfolio/">
   <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-7F5AF0?style=for-the-badge" />
 </a>
 
