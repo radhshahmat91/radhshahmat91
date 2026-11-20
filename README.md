@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-7F5AF0?style=for-the-badge" />
 </a>
 
-<a href="https://raw.githubusercontent.com/radhshahmat91/radhshahmat91/main/Radh_Shahmat_CV.pdf" target="_blank">
+<a href="Radh_Shahmat_Resume (1).pdf" target="_blank">
   <img src="https://img.shields.io/badge/📄%20Resume-View%20CV-FF5733?style=for-the-badge" />
 </a>
 
