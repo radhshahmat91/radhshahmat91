@@ -6,25 +6,25 @@
 
 ### 💻 Full-Stack Developer | AI/ML & NLP Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=7F5AF0&center=true&vCenter=true&width=750&lines=Building+Modern+Web+Applications;Exploring+Artificial+Intelligence;Exploring+Machine+Learning+%26+NLP;Turning+Ideas+Into+Real+World+Solutions;Learning+By+Building;Code.+Build.+Learn.+Repeat." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=7F5AF0&center=true&vCenter=true&width=750&lines=Building+Modern+Web+Applications;Exploring+Artificial+Intelligence;Exploring+Machine+Learning+%26+NLP;Turning+Ideas+Into+Real+World+Solutions;Learning+By+Building;Code.+Build.+Learn.+Repeat."/>
 <br>
 <a href="https://radhshahmat91.github.io/radh-portfolio/">
-  <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-7F5AF0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-7F5AF0?style=for-the-badge"/>
 </a>
 <a href="https://github.com/radhshahmat91/radhshahmat91/raw/main/Radh_Shahmat_Resume%20(1).pdf">
-  <img src="https://img.shields.io/badge/📄%20Resume-Download%20CV-FF5733?style=for-the-badge" alt="Download CV" />
+  <img src="https://img.shields.io/badge/📄%20Resume-Download%20CV-FF5733?style=for-the-badge" alt="Download CV"/>
 </a>
 <a href="https://www.linkedin.com/in/radh-shahmat-5b5420439/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 <a href="https://github.com/radhshahmat91">
-  <img src="https://img.shields.io/badge/GitHub-radhshahmat91-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-radhshahmat91-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </br>
 </div>
 <br>
 ## 👨‍💻 About Me
-
+</br>
 Hi! I'm **Radh Shahmat**, a Computer Science & Engineering graduate focused on building modern, scalable, and user-focused software applications.
 
 I'm interested in **Full-Stack Web Development, Artificial Intelligence, Machine Learning, and Natural Language Processing**.
