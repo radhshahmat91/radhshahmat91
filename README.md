@@ -137,7 +137,6 @@ Relevant areas:
 - Software Engineering
 
 ---
-
 # 🚀 Featured Projects
 
 <table>
@@ -149,14 +148,14 @@ Relevant areas:
 
 <h3>🎓 AcademiaConnect</h3>
 
-<a href="https://github.com/radhshahmat91/AcademiaConnect">
+<a href="https://academia-client.vercel.app/">
 
 <img
-src="https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1000&q=85"
+src="https://images.pexels.com/photos/7972324/pexels-photo-7972324.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=900&h=480"
 width="450"
 height="240"
 style="object-fit:cover; border-radius:12px;"
-alt="Students studying together"
+alt="Students walking across a university campus"
 />
 
 </a>
@@ -165,77 +164,32 @@ alt="Students studying together"
 
 <p>
 A university platform connecting students with courses,
-clubs, events, notices and campus resources.
+clubs, events, notices, live messaging and campus resources.
 </p>
 
 <p>
 
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
 <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white" />
+<img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" />
 
 </p>
 
-<a href="https://academia-connect-nine.vercel.app/">
-<img src="https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Website-7F5AF0?style=for-the-badge" />
+<a href="https://academia-client.vercel.app/">
+<img src="https://img.shields.io/badge/🌐%20Live%20Demo-7F5AF0?style=for-the-badge" />
 </a>
 
-<a href="https://github.com/radhshahmat91/AcademiaConnect">
-<img src="https://img.shields.io/badge/💻%20GitHub-Repository-181717?style=for-the-badge&logo=github" />
+<a href="https://github.com/radhshahmat91/academia-client">
+<img src="https://img.shields.io/badge/Client-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://github.com/radhshahmat91/academia-server">
+<img src="https://img.shields.io/badge/Server-181717?style=for-the-badge&logo=github" />
 </a>
 
 </td>
-
-<!-- Riz -->
-
-<td width="50%" align="center">
-
-<h3>🍽️ Riz Restaurant</h3>
-
-<a href="https://github.com/radhshahmat91/Riz-Restaurant">
-
-<img
-src="https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=1000&q=85"
-width="450"
-height="240"
-style="object-fit:cover; border-radius:12px;"
-alt="Restaurant interior"
-/>
-
-</a>
-
-<br><br>
-
-<p>
-A full-stack restaurant platform featuring menu browsing,
-cart, checkout, reservations, events and admin management.
-</p>
-
-<p>
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-
-</p>
-
-<a href="https://riz-restaurant.vercel.app/">
-<img src="https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Website-00D9FF?style=for-the-badge" />
-</a>
-
-<a href="https://github.com/radhshahmat91/Riz-Restaurant">
-<img src="https://img.shields.io/badge/💻%20GitHub-Repository-181717?style=for-the-badge&logo=github" />
-</a>
-
-</td>
-
-</tr>
-
-<tr>
 
 <!-- Vroomly -->
 
@@ -243,14 +197,14 @@ cart, checkout, reservations, events and admin management.
 
 <h3>🚗 Vroomly</h3>
 
-<a href="https://github.com/radhshahmat91/Vroomly2">
+<a href="https://vroomly-client.vercel.app">
 
 <img
-src="https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?auto=format&fit=crop&w=1000&q=85"
+src="https://images.pexels.com/photos/28470707/pexels-photo-28470707.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=900&h=480"
 width="450"
 height="240"
 style="object-fit:cover; border-radius:12px;"
-alt="Premium car"
+alt="Classic cars parked in a row"
 />
 
 </a>
@@ -264,38 +218,46 @@ search, book and rent vehicles with secure payments.
 
 <p>
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
 <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
 
 </p>
 
-<a href="https://vroomly2-kappa.vercel.app/">
-<img src="https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Website-7F5AF0?style=for-the-badge" />
+<a href="https://vroomly-client.vercel.app">
+<img src="https://img.shields.io/badge/🌐%20Live%20Demo-00D9FF?style=for-the-badge" />
 </a>
 
-<a href="https://github.com/radhshahmat91/Vroomly2">
-<img src="https://img.shields.io/badge/💻%20GitHub-Repository-181717?style=for-the-badge&logo=github" />
+<a href="https://github.com/radhshahmat91/vroomly-client">
+<img src="https://img.shields.io/badge/Client-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://github.com/radhshahmat91/vroomly-server">
+<img src="https://img.shields.io/badge/Server-181717?style=for-the-badge&logo=github" />
 </a>
 
 </td>
 
-<!-- Jobhunt -->
+</tr>
+
+<tr>
+
+<!-- Elan -->
 
 <td width="50%" align="center">
 
-<h3>💼 JobNest</h3>
+<h3>🍽️ Elan</h3>
 
-<a href="https://github.com/radhshahmat91/JobNest-MERN">
+<a href="https://elan-client.vercel.app">
 
 <img
-src="https://images.unsplash.com/photo-1499750310107-5fef28a66643?auto=format&fit=crop&w=1000&q=85"
+src="https://images.pexels.com/photos/31071253/pexels-photo-31071253.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=900&h=480"
 width="450"
 height="240"
 style="object-fit:cover; border-radius:12px;"
-alt="Professional workspace"
+alt="Elegant restaurant interior"
 />
 
 </a>
@@ -303,25 +265,79 @@ alt="Professional workspace"
 <br><br>
 
 <p>
-A role-based job platform connecting job seekers and employers
-with job search, applications and applicant management.
+A restaurant platform with online ordering, table reservations,
+live order tracking and kitchen, delivery and admin dashboards.
 </p>
 
 <p>
 
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
 <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" />
 
 </p>
 
-<a href="https://job-nest-mern.vercel.app/">
-<img src="https://img.shields.io/badge/🌐%20Live%20Demo-Visit%20Website-00D9FF?style=for-the-badge" />
+<a href="https://elan-client.vercel.app">
+<img src="https://img.shields.io/badge/🌐%20Live%20Demo-7F5AF0?style=for-the-badge" />
 </a>
 
-<a href="https://github.com/radhshahmat91/JobNest-MERN">
-<img src="https://img.shields.io/badge/💻%20GitHub-Repository-181717?style=for-the-badge&logo=github" />
+<a href="https://github.com/radhshahmat91/elan-client">
+<img src="https://img.shields.io/badge/Client-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://github.com/radhshahmat91/elan-server">
+<img src="https://img.shields.io/badge/Server-181717?style=for-the-badge&logo=github" />
+</a>
+
+</td>
+
+<!-- BookNook -->
+
+<td width="50%" align="center">
+
+<h3>📚 BookNook</h3>
+
+<a href="https://booknook-client-murex.vercel.app/">
+
+<img
+src="https://images.pexels.com/photos/37888976/pexels-photo-37888976.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=900&h=480"
+width="450"
+height="240"
+style="object-fit:cover; border-radius:12px;"
+alt="Bookshelves in a cozy library"
+/>
+
+</a>
+
+<br><br>
+
+<p>
+An online library platform where users can add, borrow
+and return books with secure sign-in.
+</p>
+
+<p>
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/BetterAuth-6C47FF?style=flat-square" />
+<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
+
+</p>
+
+<a href="https://booknook-client-murex.vercel.app/">
+<img src="https://img.shields.io/badge/🌐%20Live%20Demo-00D9FF?style=for-the-badge" />
+</a>
+
+<a href="https://github.com/radhshahmat91/booknook-client">
+<img src="https://img.shields.io/badge/Client-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://github.com/radhshahmat91/booknook-server">
+<img src="https://img.shields.io/badge/Server-181717?style=for-the-badge&logo=github" />
 </a>
 
 </td>
