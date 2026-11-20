@@ -22,8 +22,7 @@
 </a>
 </br>
 </div>
----
-
+<br>
 ## 👨‍💻 About Me
 
 Hi! I'm **Radh Shahmat**, a Computer Science & Engineering graduate focused on building modern, scalable, and user-focused software applications.
