@@ -14,8 +14,8 @@
   <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-7F5AF0?style=for-the-badge" />
 </a>
 
-<a href="https://github.com/radhshahmat91/radhshahmat91.github.io/raw/refs/heads/main/Radh_Shahmat_Resume (1).pdf" download="Radh_Shahmat_Resume.pdf">
-  <img src="https://img.shields.io/badge/📄%20Resume-Download%20CV-FF5733?style=for-the-badge" />
+<a href="https://github.com/radhshahmat91/radhshahmat91/raw/main/Radh_Shahmat_Resume%20(1).pdf">
+  <img src="https://img.shields.io/badge/📄%20Resume-Download%20CV-FF5733?style=for-the-badge" alt="Download CV" />
 </a>
 
 <a href="https://www.linkedin.com/in/radh-shahmat-5b5420439/">
