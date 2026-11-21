@@ -8,18 +8,12 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=7F5AF0&center=true&vCenter=true&width=750&lines=Building+Modern+Web+Applications;Exploring+Artificial+Intelligence;Exploring+Machine+Learning+%26+NLP;Turning+Ideas+Into+Real+World+Solutions;Learning+By+Building;Code.+Build.+Learn.+Repeat."/>
 <br>
-<a href="https://radhshahmat91.github.io/radh-portfolio/">
-  <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20Website-7F5AF0?style=for-the-badge"/>
-</a>
-<a href="https://github.com/radhshahmat91/radhshahmat91/raw/main/Radh_Shahmat_Resume%20(1).pdf">
-  <img src="https://img.shields.io/badge/📄%20Resume-Download%20CV-FF5733?style=for-the-badge" alt="Download CV"/>
-</a>
-<a href="https://www.linkedin.com/in/radh-shahmat-5b5420439/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/radhshahmat91">
-  <img src="https://img.shields.io/badge/GitHub-radhshahmat91-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<p align="center">
+<a href="https://radhshahmat91.github.io/radh-portfolio/"><img src="https://img.shields.io/badge/Portfolio-7F5AF0?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a><!--
+--><a href="https://github.com/radhshahmat91/radhshahmat91/raw/main/Radh_Shahmat_Resume%20(1).pdf"><img src="https://img.shields.io/badge/Resume-4F46E5?style=for-the-badge&logo=googledocs&logoColor=white" alt="Resume"/></a><!--
+--><a href="https://www.linkedin.com/in/radh-shahmat-5b5420439/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSIjZmZmIj48cGF0aCBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMi4wNjMtLjkyNi0yLjA2My0yLjA2NSAwLTEuMTM4LjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1ek03LjExOSAyMC40NTJIMy41NTVWOWgzLjU2NHYxMS40NTJ6Ii8%2BPC9zdmc%2B" alt="LinkedIn"/></a><!--
+--><a href="https://github.com/radhshahmat91"><img src="https://img.shields.io/badge/GitHub-0E7490?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
 </br>
 </div>
 
