@@ -8,6 +8,12 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=7F5AF0&center=true&vCenter=true&width=750&lines=Building+Modern+Web+Applications;Exploring+Artificial+Intelligence;Exploring+Machine+Learning+%26+NLP;Turning+Ideas+Into+Real+World+Solutions;Learning+By+Building;Code.+Build.+Learn.+Repeat."/>
 <br>
+<p align="center">
+<a href="https://radhshahmat91.github.io/radh-portfolio/"><img src="https://raw.githubusercontent.com/radhshahmat91/radhshahmat91/main/btn-portfolio.svg" width="20.98%" alt="Portfolio"/></a><!--
+--><a href="https://github.com/radhshahmat91/radhshahmat91/raw/main/Radh_Shahmat_Resume%20(1).pdf"><img src="https://raw.githubusercontent.com/radhshahmat91/radhshahmat91/main/btn-resume.svg" width="20.02%" alt="Resume"/></a><!--
+--><a href="https://www.linkedin.com/in/radh-shahmat-5b5420439/"><img src="https://raw.githubusercontent.com/radhshahmat91/radhshahmat91/main/btn-linkedin.svg" width="20.02%" alt="LinkedIn"/></a><!--
+--><a href="https://github.com/radhshahmat91"><img src="https://raw.githubusercontent.com/radhshahmat91/radhshahmat91/main/btn-github.svg" width="20.98%" alt="GitHub"/></a>
+</p>
 
 </br>
 </div>
