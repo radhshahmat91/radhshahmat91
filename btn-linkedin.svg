@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="168" height="66" viewBox="344 0 168 66" role="img" aria-label="LinkedIn">
+<title>LinkedIn</title>
+<defs>
+<linearGradient id="ring" gradientUnits="userSpaceOnUse" x1="8" y1="0" x2="680" y2="0"><stop offset="0.0" stop-color="#40AAFC"/><stop offset="0.34" stop-color="#5D88FA"/><stop offset="0.67" stop-color="#7967F8"/><stop offset="1.0" stop-color="#9645F6"/></linearGradient>
+<linearGradient id="body" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#151D45"/><stop offset="1" stop-color="#0A0F27"/></linearGradient>
+<linearGradient id="sheen" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".26"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<linearGradient id="div" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#9DB4FF" stop-opacity="0"/><stop offset=".5" stop-color="#9DB4FF" stop-opacity=".30"/><stop offset="1" stop-color="#9DB4FF" stop-opacity="0"/></linearGradient>
+<radialGradient id="halo"><stop offset="0" stop-color="#756CF8" stop-opacity=".85"/><stop offset="1" stop-color="#756CF8" stop-opacity="0"/></radialGradient>
+<style>.halo{opacity:.16;animation:pulse 4.8s ease-in-out infinite;animation-delay:-2.4s}@keyframes pulse{0%,100%{opacity:.14}50%{opacity:.40}}@media (prefers-reduced-motion:reduce){.halo{animation:none}}</style>
+</defs>
+<g fill="none" stroke="url(#ring)" stroke-linejoin="round"><rect x="8" y="8" width="672" height="50" rx="14" stroke-width="11" opacity=".05"/><rect x="8" y="8" width="672" height="50" rx="14" stroke-width="8.5" opacity=".07"/><rect x="8" y="8" width="672" height="50" rx="14" stroke-width="6.5" opacity=".10"/><rect x="8" y="8" width="672" height="50" rx="14" stroke-width="4.5" opacity=".13"/></g>
+<rect x="8" y="8" width="672" height="50" rx="14" fill="url(#body)"/>
+<rect x="8" y="8" width="672" height="50" rx="14" fill="url(#ring)" opacity=".10"/>
+<circle class="halo" cx="391.13" cy="33.0" r="24" fill="url(#halo)"/>
+<rect x="358" y="9" width="140" height="1.2" rx=".6" fill="url(#sheen)"/>
+<rect x="8" y="8" width="672" height="50" rx="14" fill="none" stroke="url(#ring)" stroke-width="1.3"/>
+<rect x="511" y="20" width="1" height="26" fill="url(#div)"/>
+<rect x="376.13" y="18.0" width="30" height="30" rx="9" fill="#756CF8" fill-opacity=".16" stroke="#756CF8" stroke-opacity=".45"/>
+<g transform="translate(383.63 25.50) scale(0.6250)"><path fill="#ACA7FB" d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zM7.119 20.452H3.555V9h3.564v11.452z"/></g>
+<path transform="translate(417.13 38.46) scale(0.00732 -0.00732)" fill="#E8EEF9" d="M150 0H1075V225H417V1490H150ZM1323.3 0H1583.3V1118H1323.3ZM1453.3 1276C1536.3 1276 1605.3 1340 1605.3 1419C1605.3 1498 1536.3 1561 1453.3 1561C1370.3 1561 1302.3 1498 1302.3 1419C1302.3 1340 1370.3 1276 1453.3 1276ZM2146.6 655C2146.6 817 2246.6 911 2385.6 911C2521.6 911 2603.6 821 2603.6 671V0H2863.6V711C2863.6 980 2711.6 1132 2481.6 1132C2317.6 1132 2201.6 1052 2135.6 895L2132.6 1118H1886.6V0H2146.6ZM3166.9 0H3426.9V376L3522.9 479L3867.9 0H4179.9L3720.9 635L4153.9 1118H3848.9L3445.9 667H3426.9V1490H3166.9ZM4808.2 -23C5057.2 -23 5231.2 96 5285.2 277L5046.2 326C5011.2 231 4925.2 181 4811.2 181C4644.2 181 4531.2 287 4524.2 486H5302.2V568C5302.2 960 5064.2 1132 4791.2 1132C4471.2 1132 4265.2 896 4265.2 552C4265.2 202 4471.2 -23 4808.2 -23ZM4525.2 663C4537.2 812 4633.2 928 4792.2 928C4947.2 928 5034.2 823 5049.2 663ZM5964.5 -20C6157.5 -20 6243.5 96 6284.5 177H6300.5V0H6555.5V1490H6295.5V933H6284.5C6244.5 1012 6162.5 1132 5963.5 1132C5705.5 1132 5503.5 929 5503.5 557C5503.5 190 5699.5 -20 5964.5 -20ZM6035.5 194C5861.5 194 5769.5 348 5769.5 558C5769.5 766 5859.5 918 6035.5 918C6206.5 918 6300.5 776 6300.5 558C6300.5 340 6204.5 194 6035.5 194ZM7136.8 1490H6869.8V0H7136.8ZM7712.1 655C7712.1 817 7812.1 911 7951.1 911C8087.1 911 8169.1 821 8169.1 671V0H8429.1V711C8429.1 980 8277.1 1132 8047.1 1132C7883.1 1132 7767.1 1052 7701.1 895L7698.1 1118H7452.1V0H7712.1Z"/>
+</svg>
