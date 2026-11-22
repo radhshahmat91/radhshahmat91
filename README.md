@@ -1,485 +1,215 @@
 <div align="center">
-<img src="ChatGPT Image Sep 3, 2026, 03_45_41 AM.png" />
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:7F5AF0,100:06B6D4&text=Radh%20Shahmat&fontColor=FFFFFF&fontSize=58&fontAlignY=36&desc=Full-Stack%20Developer%20%C2%B7%20AI%2FML%20%26%20NLP&descSize=20&descAlignY=56&animation=fadeIn" width="100%" alt="Radh Shahmat · Full-Stack Developer · AI/ML and NLP" />
 
-# 👋 Hi, I'm Radh Shahmat
+<a href="https://radhshahmat91.github.io/radh-portfolio/"><img src="https://img.shields.io/badge/PORTFOLIO-7F5AF0?style=for-the-badge" alt="Portfolio" /></a>
+<a href="https://github.com/radhshahmat91/radhshahmat91/blob/main/Radh_Shahmat_Resume%20(1).pdf"><img src="https://img.shields.io/badge/RESUME-5779E7?style=for-the-badge" alt="Resume" /></a>
+<a href="https://www.linkedin.com/in/radh-shahmat-5b5420439/"><img src="https://img.shields.io/badge/LINKEDIN-2F97DE?style=for-the-badge" alt="LinkedIn" /></a>
+<a href="mailto:radhshahmat91@gmail.com"><img src="https://img.shields.io/badge/EMAIL-06B6D4?style=for-the-badge" alt="Email" /></a>
 
-### 💻 Full-Stack Developer | AI/ML & NLP Enthusiast
+<sub>Dhaka, Bangladesh &nbsp;·&nbsp; B.Sc. in Computer Science &amp; Engineering, United International University</sub>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=7F5AF0&center=true&vCenter=true&width=750&lines=Building+Modern+Web+Applications;Exploring+Artificial+Intelligence;Exploring+Machine+Learning+%26+NLP;Turning+Ideas+Into+Real+World+Solutions;Learning+By+Building;Code.+Build.+Learn.+Repeat."/>
+</div>
+
+## About
+
+I’m a Computer Science & Engineering graduate who builds full-stack products end to end — from interface and API design to authentication, payments, real-time features and deployment. On the research side, I apply NLP to Bangla–English code-mixed social media text.
+
+<table>
+  <tr>
+    <td width="33%" valign="top"><b>Building</b><br>Full-stack web apps with Next.js, TypeScript, Express and MongoDB</td>
+    <td width="33%" valign="top"><b>Researching</b><br>Sentiment, toxicity and emotion in Bangla–English comments</td>
+    <td width="33%" valign="top"><b>Sharpening</b><br>UI/UX design, software engineering and problem solving</td>
+  </tr>
+</table>
+
+## Featured Projects
+
+<sub>Four deployed full-stack apps — each with a live site and separate client and server repositories.</sub>
+
+<table width="100%">
+  <tr>
+    <td width="50%" valign="middle">
+      <a href="https://academia-client.vercel.app/"><img src="https://images.pexels.com/photos/7972324/pexels-photo-7972324.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=900&h=480" width="100%" alt="AcademiaConnect — students walking across a university campus" /></a>
+    </td>
+    <td width="50%" valign="middle">
+      <h3>AcademiaConnect</h3>
+      <p>A university platform that brings courses, clubs, events, notices and messaging into one campus hub.</p>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=2200&pause=1100&color=7F5AF0&vCenter=true&width=380&height=28&lines=Real-time+student+messaging;Courses%2C+clubs+and+events;Notices+and+campus+resources" alt="Real-time student messaging, courses, clubs and events, notices and campus resources" />
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-161B22?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/TypeScript-161B22?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-161B22?style=flat-square&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS" />
+        <br>
+        <img src="https://img.shields.io/badge/Express-161B22?style=flat-square&logo=express&logoColor=white" alt="Express" />
+        <img src="https://img.shields.io/badge/MongoDB-161B22?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB" />
+        <img src="https://img.shields.io/badge/Socket.IO-161B22?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.IO" />
+      </p>
+      <p>
+        <a href="https://academia-client.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-7F5AF0?style=flat-square&logo=vercel&logoColor=white" alt="Live demo" /></a>
+        <a href="https://github.com/radhshahmat91/academia-client"><img src="https://img.shields.io/badge/Client-161B22?style=flat-square&logo=github&logoColor=white" alt="Client repository" /></a>
+        <a href="https://github.com/radhshahmat91/academia-server"><img src="https://img.shields.io/badge/Server-161B22?style=flat-square&logo=github&logoColor=white" alt="Server repository" /></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="middle">
+      <h3>Vroomly</h3>
+      <p>A peer-to-peer car rental marketplace for renters, hosts and admins, with secure card payments.</p>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=2200&pause=1100&color=7F5AF0&vCenter=true&width=380&height=28&lines=Search+and+filter+vehicles;Bookings+with+Stripe+payments;Host+and+admin+dashboards;Reviews+and+listing+approvals" alt="Search and filter vehicles, bookings with Stripe payments, host and admin dashboards, reviews and listing approvals" />
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-161B22?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/TypeScript-161B22?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-161B22?style=flat-square&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS" />
+        <br>
+        <img src="https://img.shields.io/badge/Express-161B22?style=flat-square&logo=express&logoColor=white" alt="Express" />
+        <img src="https://img.shields.io/badge/MongoDB-161B22?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB" />
+        <img src="https://img.shields.io/badge/Stripe-161B22?style=flat-square&logo=stripe&logoColor=635BFF" alt="Stripe" />
+        <img src="https://img.shields.io/badge/Socket.IO-161B22?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.IO" />
+      </p>
+      <p>
+        <a href="https://vroomly-client.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-7F5AF0?style=flat-square&logo=vercel&logoColor=white" alt="Live demo" /></a>
+        <a href="https://github.com/radhshahmat91/vroomly-client"><img src="https://img.shields.io/badge/Client-161B22?style=flat-square&logo=github&logoColor=white" alt="Client repository" /></a>
+        <a href="https://github.com/radhshahmat91/vroomly-server"><img src="https://img.shields.io/badge/Server-161B22?style=flat-square&logo=github&logoColor=white" alt="Server repository" /></a>
+      </p>
+    </td>
+    <td width="50%" valign="middle">
+      <a href="https://vroomly-client.vercel.app"><img src="https://images.pexels.com/photos/28470707/pexels-photo-28470707.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=900&h=480" width="100%" alt="Vroomly — classic cars parked in a row" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="middle">
+      <a href="https://elan-client.vercel.app"><img src="https://images.pexels.com/photos/31071253/pexels-photo-31071253.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=900&h=480" width="100%" alt="Elan — elegant restaurant interior" /></a>
+    </td>
+    <td width="50%" valign="middle">
+      <h3>Elan</h3>
+      <p>A restaurant platform for online ordering, table reservations and live order tracking.</p>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=2200&pause=1100&color=7F5AF0&vCenter=true&width=380&height=28&lines=Online+ordering+and+reservations;Live+order+tracking;Kitchen%2C+delivery+and+admin+dashboards" alt="Online ordering and reservations, live order tracking, kitchen, delivery and admin dashboards" />
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-161B22?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/TypeScript-161B22?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-161B22?style=flat-square&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS" />
+        <br>
+        <img src="https://img.shields.io/badge/Express-161B22?style=flat-square&logo=express&logoColor=white" alt="Express" />
+        <img src="https://img.shields.io/badge/MongoDB-161B22?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB" />
+        <img src="https://img.shields.io/badge/Socket.IO-161B22?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.IO" />
+      </p>
+      <p>
+        <a href="https://elan-client.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-7F5AF0?style=flat-square&logo=vercel&logoColor=white" alt="Live demo" /></a>
+        <a href="https://github.com/radhshahmat91/elan-client"><img src="https://img.shields.io/badge/Client-161B22?style=flat-square&logo=github&logoColor=white" alt="Client repository" /></a>
+        <a href="https://github.com/radhshahmat91/elan-server"><img src="https://img.shields.io/badge/Server-161B22?style=flat-square&logo=github&logoColor=white" alt="Server repository" /></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="middle">
+      <h3>BookNook</h3>
+      <p>An online library where users add, borrow and return books with secure sign-in.</p>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=13&duration=2200&pause=1100&color=7F5AF0&vCenter=true&width=380&height=28&lines=Add+books+to+the+library;Borrow+and+return+books;Secure+sign-in+with+BetterAuth" alt="Add books to the library, borrow and return books, secure sign-in with BetterAuth" />
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-161B22?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/TypeScript-161B22?style=flat-square&logo=typescript&logoColor=3178C6" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-161B22?style=flat-square&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS" />
+        <br>
+        <img src="https://img.shields.io/badge/Express-161B22?style=flat-square&logo=express&logoColor=white" alt="Express" />
+        <img src="https://img.shields.io/badge/MongoDB-161B22?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB" />
+        <img src="https://img.shields.io/badge/BetterAuth-161B22?style=flat-square" alt="BetterAuth" />
+        <img src="https://img.shields.io/badge/JWT-161B22?style=flat-square&logo=jsonwebtokens&logoColor=D63AFF" alt="JWT" />
+      </p>
+      <p>
+        <a href="https://booknook-client-murex.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-7F5AF0?style=flat-square&logo=vercel&logoColor=white" alt="Live demo" /></a>
+        <a href="https://github.com/radhshahmat91/booknook-client"><img src="https://img.shields.io/badge/Client-161B22?style=flat-square&logo=github&logoColor=white" alt="Client repository" /></a>
+        <a href="https://github.com/radhshahmat91/booknook-server"><img src="https://img.shields.io/badge/Server-161B22?style=flat-square&logo=github&logoColor=white" alt="Server repository" /></a>
+      </p>
+    </td>
+    <td width="50%" valign="middle">
+      <a href="https://booknook-client-murex.vercel.app/"><img src="https://images.pexels.com/photos/37888976/pexels-photo-37888976.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=900&h=480" width="100%" alt="BookNook — bookshelves in a cozy library" /></a>
+    </td>
+  </tr>
+</table>
+
+<details>
+<summary><b>Full technology breakdown</b></summary>
 <br>
-<p align="center">
-<a href="https://radhshahmat91.github.io/radh-portfolio/"><img src="https://raw.githubusercontent.com/radhshahmat91/radhshahmat91/main/btn-portfolio.svg" width="20.98%" alt="Portfolio"/></a><!--
---><a href="https://github.com/radhshahmat91/radhshahmat91/raw/main/Radh_Shahmat_Resume%20(1).pdf"><img src="https://raw.githubusercontent.com/radhshahmat91/radhshahmat91/main/btn-resume.svg" width="20.02%" alt="Resume"/></a><!--
---><a href="https://www.linkedin.com/in/radh-shahmat-5b5420439/"><img src="https://raw.githubusercontent.com/radhshahmat91/radhshahmat91/main/btn-linkedin.svg" width="20.02%" alt="LinkedIn"/></a><!--
---><a href="https://github.com/radhshahmat91"><img src="https://raw.githubusercontent.com/radhshahmat91/radhshahmat91/main/btn-github.svg" width="20.98%" alt="GitHub"/></a>
-</p>
 
-</br>
-</div>
+| Project | Client | Server |
+| :-- | :-- | :-- |
+| **AcademiaConnect** | Next.js 16 (App Router) · React 19 · TypeScript · Tailwind CSS 4 + DaisyUI 5 · Framer Motion · BetterAuth (MongoDB adapter) · TanStack Query · Socket.IO client · Recharts · Zod | Express 5 · Mongoose 8 · Socket.IO 4 · JWT verification (jose) · Zod · Helmet · express-rate-limit |
+| **Vroomly** | Next.js 16 (App Router) · React 19 · TypeScript · Tailwind CSS 4 + DaisyUI 5 · BetterAuth (JWT) · TanStack Query · Axios · React Hook Form + Zod · Motion · Recharts · react-day-picker · Stripe Elements · Socket.IO client | Express 5 · Mongoose 8 · Stripe · Socket.IO 4 · Cloudinary + Multer uploads · JWT verification (jose) · Zod · Helmet · express-rate-limit |
+| **Elan** | Next.js 15 (App Router) · React 19 · TypeScript (strict) · Tailwind CSS 4 · Framer Motion 12 · Lenis · Socket.IO client · Zod | Express 5 · Mongoose 8 · Socket.IO 4 · Zod · Helmet · express-rate-limit · Multer + Cloudinary · Nodemailer · PDFKit |
+| **BookNook** | Next.js (App Router) · React 19 · TypeScript · Tailwind CSS 4 + DaisyUI 5 · Framer Motion · Swiper · BetterAuth (MongoDB adapter) · jose (JWT signing) | Express 5 · MongoDB · JSON Web Tokens |
 
----
+</details>
 
-## 👨‍💻 About Me
+<p align="right"><a href="https://github.com/radhshahmat91?tab=repositories">View all repositories →</a></p>
 
-Hi! I'm **Radh Shahmat**, a Computer Science & Engineering graduate focused on building modern, scalable, and user-focused software applications.
-
-I'm interested in **Full-Stack Web Development, Artificial Intelligence, Machine Learning, and Natural Language Processing**.
-
-I enjoy working across both frontend and backend technologies, building practical projects, solving real-world problems, and continuously improving my software engineering skills.
-
-I believe in:
-
-> **Learning by building, solving real-world problems, and continuously improving.**
-
----
-
-## 🚀 What I'm Currently Focused On
-
-- 💻 Building **Full-Stack Web Applications**
-- ⚛️ Developing applications with **React.js**
-- 🚀 Exploring **Next.js & TypeScript**
-- ⚙️ Building backend systems with **Node.js & Express.js**
-- 🗄️ Working with **MongoDB & REST APIs**
-- 🤖 Exploring **Artificial Intelligence & Machine Learning**
-- 🧠 Learning more about **Natural Language Processing**
-- 🎨 Improving **UI/UX design**
-- 🧩 Strengthening **problem-solving & software engineering skills**
-
----
-
-# 🛠️ Skills & Technologies
-
-### 🌐 Frontend Development
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
-
-</p>
-
-**HTML5 · CSS3 · JavaScript · ES6 · TypeScript · React · Tailwind CSS · Next.js**
-
----
-
-### ⚙️ Backend Development
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-
-</p>
-
-**Node.js · Express.js · RESTful APIs · JWT Authentication**
-
----
-
-### 🗄️ Database
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-
-</p>
-
-**MongoDB · Mongoose · MySQL**
-
----
-
-### 🔧 Tools & Platforms
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel" />
-
-</p>
-
-**Git · GitHub · Vite · Vercel · Axios · VS Code · Figma · Framer Motion**
-
----
-
-### 🤖 AI / ML / NLP
-
-- Machine Learning
-- Natural Language Processing
-- Sentiment Analysis
-- Toxicity Analysis
-- Emotion Analysis
-- Text Classification
-- Data Analysis
-- AI Applications
-
----
-
-# 🎓 Education
-
-### 🎓 Bachelor of Science in Computer Science & Engineering
-
-**United International University (UIU)**
-
-Relevant areas:
-
-- Data Structures & Algorithms
-- Artificial Intelligence
-- Web Development
-- Computer Networks
-- System Analysis & Design
-- Software Engineering
-
----
-# 🚀 Featured Projects
+## Research
 
 <table>
-<tr>
-
-<!-- AcademiaConnect -->
-
-<td width="50%" align="center">
-
-<h3>🎓 AcademiaConnect</h3>
-
-<a href="https://academia-client.vercel.app/">
-
-<img
-src="https://images.pexels.com/photos/7972324/pexels-photo-7972324.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=900&h=480"
-width="450"
-height="240"
-style="object-fit:cover; border-radius:12px;"
-alt="Students walking across a university campus"
-/>
-
-</a>
-
-<br><br>
-
-<p>
-A university platform connecting students with courses,
-clubs, events, notices, live messaging and campus resources.
-</p>
-
-<p>
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" />
-
-</p>
-
-<a href="https://academia-client.vercel.app/">
-<img src="https://img.shields.io/badge/🌐%20Live%20Demo-7F5AF0?style=for-the-badge" />
-</a>
-
-<a href="https://github.com/radhshahmat91/academia-client">
-<img src="https://img.shields.io/badge/Client-181717?style=for-the-badge&logo=github" />
-</a>
-
-<a href="https://github.com/radhshahmat91/academia-server">
-<img src="https://img.shields.io/badge/Server-181717?style=for-the-badge&logo=github" />
-</a>
-
-</td>
-
-<!-- Vroomly -->
-
-<td width="50%" align="center">
-
-<h3>🚗 Vroomly</h3>
-
-<a href="https://vroomly-client.vercel.app">
-
-<img
-src="https://images.pexels.com/photos/28470707/pexels-photo-28470707.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=900&h=480"
-width="450"
-height="240"
-style="object-fit:cover; border-radius:12px;"
-alt="Classic cars parked in a row"
-/>
-
-</a>
-
-<br><br>
-
-<p>
-A peer-to-peer car rental marketplace where users can
-search, book and rent vehicles with secure payments.
-</p>
-
-<p>
-
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" />
-
-</p>
-
-<a href="https://vroomly-client.vercel.app">
-<img src="https://img.shields.io/badge/🌐%20Live%20Demo-00D9FF?style=for-the-badge" />
-</a>
-
-<a href="https://github.com/radhshahmat91/vroomly-client">
-<img src="https://img.shields.io/badge/Client-181717?style=for-the-badge&logo=github" />
-</a>
-
-<a href="https://github.com/radhshahmat91/vroomly-server">
-<img src="https://img.shields.io/badge/Server-181717?style=for-the-badge&logo=github" />
-</a>
-
-</td>
-
-</tr>
-
-<tr>
-
-<!-- Elan -->
-
-<td width="50%" align="center">
-
-<h3>🍽️ Elan</h3>
-
-<a href="https://elan-client.vercel.app">
-
-<img
-src="https://images.pexels.com/photos/31071253/pexels-photo-31071253.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=900&h=480"
-width="450"
-height="240"
-style="object-fit:cover; border-radius:12px;"
-alt="Elegant restaurant interior"
-/>
-
-</a>
-
-<br><br>
-
-<p>
-A restaurant platform with online ordering, table reservations,
-live order tracking and kitchen, delivery and admin dashboards.
-</p>
-
-<p>
-
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" />
-
-</p>
-
-<a href="https://elan-client.vercel.app">
-<img src="https://img.shields.io/badge/🌐%20Live%20Demo-7F5AF0?style=for-the-badge" />
-</a>
-
-<a href="https://github.com/radhshahmat91/elan-client">
-<img src="https://img.shields.io/badge/Client-181717?style=for-the-badge&logo=github" />
-</a>
-
-<a href="https://github.com/radhshahmat91/elan-server">
-<img src="https://img.shields.io/badge/Server-181717?style=for-the-badge&logo=github" />
-</a>
-
-</td>
-
-<!-- BookNook -->
-
-<td width="50%" align="center">
-
-<h3>📚 BookNook</h3>
-
-<a href="https://booknook-client-murex.vercel.app/">
-
-<img
-src="https://images.pexels.com/photos/37888976/pexels-photo-37888976.jpeg?auto=compress&cs=tinysrgb&fit=crop&w=900&h=480"
-width="450"
-height="240"
-style="object-fit:cover; border-radius:12px;"
-alt="Bookshelves in a cozy library"
-/>
-
-</a>
-
-<br><br>
-
-<p>
-An online library platform where users can add, borrow
-and return books with secure sign-in.
-</p>
-
-<p>
-
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/BetterAuth-6C47FF?style=flat-square" />
-<img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
-
-</p>
-
-<a href="https://booknook-client-murex.vercel.app/">
-<img src="https://img.shields.io/badge/🌐%20Live%20Demo-00D9FF?style=for-the-badge" />
-</a>
-
-<a href="https://github.com/radhshahmat91/booknook-client">
-<img src="https://img.shields.io/badge/Client-181717?style=for-the-badge&logo=github" />
-</a>
-
-<a href="https://github.com/radhshahmat91/booknook-server">
-<img src="https://img.shields.io/badge/Server-181717?style=for-the-badge&logo=github" />
-</a>
-
-</td>
-
-</tr>
+  <tr>
+    <td colspan="3">
+      <b>Unveiling Gender Bias in Social Media Comments: An NLP Analysis on Bangladeshi Influencers</b><br>
+      <sub>Undergraduate thesis &nbsp;·&nbsp; Natural Language Processing &nbsp;·&nbsp; Machine Learning</sub>
+      <br><br>
+      A study of how audiences respond to male and female Bangladeshi YouTube influencers, built on manually annotated <b>Bangla, English and Banglish</b> comments.
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top"><b>Data</b><br>Comments across five creator categories — educational, comedy, food vlogging, lifestyle and fitness — labeled by multiple annotators.</td>
+    <td width="33%" valign="top"><b>Method</b><br>Ground truth from annotator agreement and adjudication, data cleaning and preprocessing, and stratified train, validation and test splits.</td>
+    <td width="33%" valign="top"><b>Analysis</b><br>Sentiment, toxicity, emotion and bias analysis comparing the nature and severity of negative comments aimed at male and female influencers.</td>
+  </tr>
 </table>
 
----
-
-# 🔬 Thesis / Research
-
-## Unveiling Gender Bias in Social Media Comments: An NLP Analysis on Bangladeshi Influencers
-
-My undergraduate thesis focused on analyzing **gender bias in Bangladeshi YouTube comments** using Natural Language Processing.
-
-The research used manually annotated **Bangla, English, and Banglish** comments and focused on understanding differences in audience responses toward male and female influencers.
-
-### 🔎 Research Areas
-
-- Natural Language Processing
-- Sentiment Analysis
-- Toxicity Analysis
-- Emotion Analysis
-- Gender Bias Detection
-- Bangla-English Code-Mixed Text
-- Text Classification
-- Machine Learning
-
-### 🧪 Dataset & Methodology
-
-- Collected Bangladeshi YouTube comments
-- Performed data cleaning and preprocessing
-- Used multi-annotator labeling
-- Established ground truth through annotator agreement and adjudication
-- Prepared stratified training, validation and test datasets
-- Performed sentiment, toxicity, emotion and bias analysis
-
----
-
-# 📊 Project Technology Overview
-
-| Project | Technologies |
-|:---:|:---|
-| 🎓 **AcademiaConnect** | Next.js 16 (App Router) · React 19 · TypeScript · Tailwind CSS 4 + DaisyUI 5 · Framer Motion · BetterAuth (MongoDB adapter, JWT plugin) · TanStack Query · Socket.io client · Recharts · Sonner toasts · React Icons (FaXTwitter) and Lucide. |
-| 🚗 **Vroomly** | Next.js 16 (App Router, proxy.ts) · React 19 · TypeScript · Tailwind CSS v4 · DaisyUI 5 · BetterAuth (MongoDB adapter, jwt plugin) · TanStack Query · Axios · react-hook-form + Zod · Motion · Recharts · react-day-picker · Stripe Elements · Socket.IO client · Sonner. |
-| 🍽️ **Elan** | Next.js 15 (App Router) . React 19, TypeScript in strict mode . Tailwind CSS 4 . Framer Motion 12 . Lenis . socket.io-client . Zod . react-icons . Node 22 . Express 5 . Mongoose 8 on MongoDB . Socket.IO 4 . Zod, Helmet . express-rate-limit . Multer and Cloudinary for uploads . Nodemailer . PDFKit. |
-| 💼 **BookNook** | Next.js (App Router) . React . TypeScript . Tailwind CSS 4 . daisyUI 5 . Framer Motion . Swiper, Sonner . BetterAuth + MongoDB adapter . jose (JWT signing)|
-
----
-
-# 🧠 Development Focus
-
-<div align="center">
+## Tech Stack
 
 <table>
-
-<tr>
-
-<td align="center" width="33%">
-
-### 💻 Full Stack
-
-React.js  
-Next.js  
-TypeScript  
-Node.js  
-Express.js  
-MongoDB
-
-</td>
-
-<td align="center" width="33%">
-
-### 🤖 AI / ML / NLP
-
-Machine Learning  
-Natural Language Processing  
-Data Analysis  
-Text Classification  
-AI Applications
-
-</td>
-
-<td align="center" width="33%">
-
-### 🧠 Engineering
-
-REST APIs  
-Clean Code  
-Problem Solving  
-Scalable Applications  
-UI/UX
-
-</td>
-
-</tr>
-
+  <tr>
+    <td width="130" align="right" valign="middle"><b>Frontend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" alt="HTML, CSS, JavaScript, TypeScript, React, Next.js, Tailwind CSS" /><br><sub>ES6 &nbsp;·&nbsp; Framer Motion</sub></td>
+  </tr>
+  <tr>
+    <td width="130" align="right" valign="middle"><b>Backend</b></td>
+    <td><img src="https://skillicons.dev/icons?i=nodejs,express" alt="Node.js, Express" /><br><sub>REST APIs &nbsp;·&nbsp; JWT &nbsp;·&nbsp; BetterAuth &nbsp;·&nbsp; Socket.IO &nbsp;·&nbsp; Stripe</sub></td>
+  </tr>
+  <tr>
+    <td width="130" align="right" valign="middle"><b>Database</b></td>
+    <td><img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="MongoDB, MySQL" /><br><sub>Mongoose</sub></td>
+  </tr>
+  <tr>
+    <td width="130" align="right" valign="middle"><b>Tools</b></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vite,vercel" alt="Git, GitHub, VS Code, Figma, Vite, Vercel" /><br><sub>Axios &nbsp;·&nbsp; AI-assisted coding</sub></td>
+  </tr>
+  <tr>
+    <td width="130" align="right" valign="middle"><b>AI / NLP</b></td>
+    <td><img src="https://skillicons.dev/icons?i=py" alt="Python" /><br><sub>scikit-learn &nbsp;·&nbsp; Transformers &nbsp;·&nbsp; Sentiment, toxicity and emotion analysis &nbsp;·&nbsp; Text classification</sub></td>
+  </tr>
 </table>
 
-</div>
-
----
-
-# 📈 GitHub Activity
+## GitHub Activity
 
 <div align="center">
 
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=radhshahmat91&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-# 🐍 Contribution Journey
-
-<div align="center">
-
-<img
-src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
-alt="GitHub Contribution Snake"
-/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=radhshahmat91&background=0D1117&border=30363D&stroke=30363D&ring=7F5AF0&fire=06B6D4&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=7F5AF0&sideLabels=8B949E&dates=6E7681&border_radius=12">
+  <img src="https://streak-stats.demolab.com?user=radhshahmat91&background=FFFFFF&border=D0D7DE&stroke=D0D7DE&ring=7F5AF0&fire=06B6D4&currStreakNum=24292F&sideNums=24292F&currStreakLabel=7F5AF0&sideLabels=57606A&dates=6E7681&border_radius=12" alt="GitHub contribution streak" />
+</picture>
 
 </div>
 
----
-
-# 📫 Connect With Me
-
 <div align="center">
 
-<a href="mailto:radhshahmat91@gmail.com">
-<img src="https://img.shields.io/badge/Email-radhshahmat91%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+<br>
 
-<a href="https://www.linkedin.com/in/radh-shahmat-5b5420439/">
-<img src="https://img.shields.io/badge/LinkedIn-Radh%20Shahmat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+<sub>Let’s build something meaningful together.</sub>
 
-<a href="https://radhshahmat91.github.io/portfolio-v2/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-7F5AF0?style=for-the-badge" />
-</a>
+<sub>
+  <a href="mailto:radhshahmat91@gmail.com">Email</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/radh-shahmat-5b5420439/">LinkedIn</a> &nbsp;·&nbsp;
+  <a href="https://radhshahmat91.github.io/radh-portfolio/">Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://github.com/radhshahmat91/radhshahmat91/blob/main/Radh_Shahmat_Resume%20(1).pdf">Resume</a>
+</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:7F5AF0,100:06B6D4" width="100%" alt="" />
 
 </div>
-
----
-
-<div align="center">
-
-### 🚀 Thanks for visiting my profile!
-
-**Let's build something meaningful together.**
-
-</div>  
