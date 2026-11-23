@@ -462,7 +462,7 @@ alt="GitHub Contribution Snake"
 <img src="https://img.shields.io/badge/LinkedIn-Radh%20Shahmat-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="https://radhshahmat91.github.io/portfolio-v2/">
+<a href="https://radhshahmat91.github.io/radh-portfolio">
 <img src="https://img.shields.io/badge/Portfolio-Visit-7F5AF0?style=for-the-badge" />
 </a>
 
