@@ -269,6 +269,8 @@ The research used manually annotated **Bangla, English, and Banglish** comments 
 
 # 📊 Project Technology Overview
 
+<h2 align="center">📊 Technology Used For the Projects </h2>
+
 <div align="center">
 <table>
   <thead>
