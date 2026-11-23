@@ -140,266 +140,100 @@ Relevant areas:
 
 # 🚀 Featured Projects
 
-<!-- ═══════════════════════════════════════════════════════ -->
-<!--                 FEATURED PROJECTS                       -->
-<!-- ═══════════════════════════════════════════════════════ -->
+<!-- ═════════════ Featured Projects ═════════════ -->
+<!-- To change a card photo, swap the photo-… ID inside its images.unsplash.com link. -->
 
-<div align="center">
-
-# ✦ SELECTED PROJECTS
-
-<p>
-  <samp>A collection of things I've designed, developed & shipped.</samp>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:06B6D4&height=160&section=header&text=Featured%20Projects&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Four%20full-stack%20builds%2C%20all%20live&descSize=22&descAlignY=60&animation=fadeIn" alt="Featured Projects: four full-stack builds, all live" width="100%" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&section=header" width="100%" />
-
-</div>
-
-<br/>
-
-<!-- ───────────────────── 01 · ACADEMIACONNECT ───────────────────── -->
-
-<table>
-<tr>
-<td width="100%" colspan="2">
-
-<div align="center">
-
-<a href="https://academia-client.vercel.app/">
-<img src="https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=1400&q=85"
-width="100%"
-alt="AcademiaConnect — University community"
- />
-</a>
-
-</div>
-
-</td>
-</tr>
-<tr>
-<td width="65%" valign="middle">
-
-### 🎓 AcademiaConnect
-
-**A connected university experience.**
-
-A campus platform designed to bring students closer to academic resources, university activities, clubs, events and community interactions.
-
-<br/>
-
-<img src="https://img.shields.io/badge/EDUCATION-8B9DFF?style=flat-square&labelColor=161B22" />
-<img src="https://img.shields.io/badge/FULL--STACK-56D4DD?style=flat-square&labelColor=161B22" />
-
-</td>
-<td width="35%" align="center" valign="middle">
-
-<a href="https://academia-client.vercel.app/">
-<img src="https://img.shields.io/badge/↗_LIVE_DEMO-8B9DFF?style=for-the-badge&labelColor=161B22" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/radhshahmat91/academia-client">
-<img src="https://img.shields.io/badge/⌘_CLIENT-FFFFFF?style=for-the-badge&labelColor=30363D" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/radhshahmat91/academia-server">
-<img src="https://img.shields.io/badge/⌘_SERVER-FFFFFF?style=for-the-badge&labelColor=30363D" />
-</a>
-
-</td>
-</tr>
+<table width="100%">
+  <tr>
+    <!-- AcademiaConnect -->
+    <td width="50%" valign="top" align="center">
+      <a href="https://academia-client.vercel.app/">
+        <img src="https://images.unsplash.com/photo-1523240795612-9a054b0db644?auto=format&fit=crop&w=800&h=450&q=80" alt="Students studying together" width="100%" />
+      </a>
+      <h3>🎓 AcademiaConnect</h3>
+      <p>A university platform that connects students with courses, clubs, events, notices and campus resources.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-21262D?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/Node.js-21262D?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Express-21262D?style=flat-square&logo=express&logoColor=white" alt="Express" />
+        <img src="https://img.shields.io/badge/MongoDB-21262D?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB" />
+        <img src="https://img.shields.io/badge/Socket.io-21262D?style=flat-square&logo=socketdotio&logoColor=white" alt="Socket.io" />
+      </p>
+      <p>
+        <a href="https://academia-client.vercel.app/"><img src="https://img.shields.io/badge/Live_site-7C3AED?style=flat-square&logo=vercel&logoColor=white" alt="Live site" height="28" /></a>
+        <a href="https://github.com/radhshahmat91/academia-client"><img src="https://img.shields.io/badge/Client-21262D?style=flat-square&logo=github&logoColor=white" alt="Client repository" height="28" /></a>
+        <a href="https://github.com/radhshahmat91/academia-server"><img src="https://img.shields.io/badge/Server-21262D?style=flat-square&logo=github&logoColor=white" alt="Server repository" height="28" /></a>
+      </p>
+    </td>
+    <!-- Vroomly -->
+    <td width="50%" valign="top" align="center">
+      <a href="https://vroomly-client.vercel.app">
+        <img src="https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?auto=format&fit=crop&w=800&h=450&q=80" alt="Premium car on the road" width="100%" />
+      </a>
+      <h3>🚗 Vroomly</h3>
+      <p>A peer-to-peer car rental marketplace where people search, book and rent vehicles with secure payments.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-21262D?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/Node.js-21262D?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Express-21262D?style=flat-square&logo=express&logoColor=white" alt="Express" />
+        <img src="https://img.shields.io/badge/MongoDB-21262D?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB" />
+        <img src="https://img.shields.io/badge/Stripe-21262D?style=flat-square&logo=stripe&logoColor=635BFF" alt="Stripe" />
+      </p>
+      <p>
+        <a href="https://vroomly-client.vercel.app"><img src="https://img.shields.io/badge/Live_site-0284C7?style=flat-square&logo=vercel&logoColor=white" alt="Live site" height="28" /></a>
+        <a href="https://github.com/radhshahmat91/vroomly-client"><img src="https://img.shields.io/badge/Client-21262D?style=flat-square&logo=github&logoColor=white" alt="Client repository" height="28" /></a>
+        <a href="https://github.com/radhshahmat91/vroomly-server"><img src="https://img.shields.io/badge/Server-21262D?style=flat-square&logo=github&logoColor=white" alt="Server repository" height="28" /></a>
+      </p>
+    </td>
+  </tr>
 </table>
 
-<br/>
-
-<!-- ───────────────────── 02 · VROOMLY ───────────────────── -->
-
-<table>
-<tr>
-<td width="100%" colspan="2">
-
-<div align="center">
-
-<a href="https://vroomly-client.vercel.app">
-<img src="https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?auto=format&fit=crop&w=1400&q=85"
-width="100%"
-alt="Vroomly — Premium automotive experience"
- />
-</a>
-
-</div>
-
-</td>
-</tr>
-<tr>
-<td width="65%" valign="middle">
-
-### 🚘 Vroomly
-
-**Your next journey starts here.**
-
-A modern automotive project built around a premium visual experience and a convenient digital journey for discovering and renting vehicles.
-
-<br/>
-
-<img src="https://img.shields.io/badge/AUTOMOTIVE-9AE6B4?style=flat-square&labelColor=161B22" />
-<img src="https://img.shields.io/badge/MARKETPLACE-56D4DD?style=flat-square&labelColor=161B22" />
-
-</td>
-<td width="35%" align="center" valign="middle">
-
-<a href="https://vroomly-client.vercel.app">
-<img src="https://img.shields.io/badge/↗_LIVE_DEMO-9AE6B4?style=for-the-badge&labelColor=161B22" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/radhshahmat91/vroomly-client">
-<img src="https://img.shields.io/badge/⌘_CLIENT-FFFFFF?style=for-the-badge&labelColor=30363D" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/radhshahmat91/vroomly-server">
-<img src="https://img.shields.io/badge/⌘_SERVER-FFFFFF?style=for-the-badge&labelColor=30363D" />
-</a>
-
-</td>
-</tr>
+<table width="100%">
+  <tr>
+    <!-- Elan -->
+    <td width="50%" valign="top" align="center">
+      <a href="https://elan-client.vercel.app">
+        <img src="https://images.unsplash.com/photo-1517248135467-4c7edcad34c4?auto=format&fit=crop&w=800&h=450&q=80" alt="Restaurant interior" width="100%" />
+      </a>
+      <h3>🍽️ Elan</h3>
+      <p>A full-stack restaurant platform for exploring the menu and running the restaurant online.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-21262D?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/Node.js-21262D?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Express-21262D?style=flat-square&logo=express&logoColor=white" alt="Express" />
+        <img src="https://img.shields.io/badge/MongoDB-21262D?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB" />
+      </p>
+      <p>
+        <a href="https://elan-client.vercel.app"><img src="https://img.shields.io/badge/Live_site-D97706?style=flat-square&logo=vercel&logoColor=white" alt="Live site" height="28" /></a>
+        <a href="https://github.com/radhshahmat91/elan-client"><img src="https://img.shields.io/badge/Client-21262D?style=flat-square&logo=github&logoColor=white" alt="Client repository" height="28" /></a>
+        <a href="https://github.com/radhshahmat91/elan-server"><img src="https://img.shields.io/badge/Server-21262D?style=flat-square&logo=github&logoColor=white" alt="Server repository" height="28" /></a>
+      </p>
+    </td>
+    <!-- BookNook -->
+    <td width="50%" valign="top" align="center">
+      <a href="https://booknook-client-murex.vercel.app">
+        <img src="https://images.unsplash.com/photo-1481627834876-b7833e8f5570?auto=format&fit=crop&w=800&h=450&q=80" alt="Shelves full of books" width="100%" />
+      </a>
+      <h3>📚 BookNook</h3>
+      <p>A full-stack book platform for discovering, browsing and exploring your next read.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-21262D?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/Node.js-21262D?style=flat-square&logo=nodedotjs&logoColor=5FA04E" alt="Node.js" />
+        <img src="https://img.shields.io/badge/Express-21262D?style=flat-square&logo=express&logoColor=white" alt="Express" />
+        <img src="https://img.shields.io/badge/MongoDB-21262D?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB" />
+      </p>
+      <p>
+        <a href="https://booknook-client-murex.vercel.app"><img src="https://img.shields.io/badge/Live_site-059669?style=flat-square&logo=vercel&logoColor=white" alt="Live site" height="28" /></a>
+        <a href="https://github.com/radhshahmat91/booknook-client"><img src="https://img.shields.io/badge/Client-21262D?style=flat-square&logo=github&logoColor=white" alt="Client repository" height="28" /></a>
+        <a href="https://github.com/radhshahmat91/booknook-server"><img src="https://img.shields.io/badge/Server-21262D?style=flat-square&logo=github&logoColor=white" alt="Server repository" height="28" /></a>
+      </p>
+    </td>
+  </tr>
 </table>
-
-<br/>
-
-<!-- ───────────────────── 03 · ELAN ───────────────────── -->
-
-<table>
-<tr>
-<td width="100%" colspan="2">
-
-<div align="center">
-
-<a href="https://elan-client.vercel.app">
-<img src="https://images.unsplash.com/photo-1441986300917-64674bd600d8?auto=format&fit=crop&w=1400&q=85"
-width="100%"
-alt="Elan — Modern retail and fashion aesthetic"
- />
-</a>
-
-</div>
-
-</td>
-</tr>
-<tr>
-<td width="65%" valign="middle">
-
-### ✧ Elan
-
-**Minimal design. Distinctive experience.**
-
-A contemporary web project presented with a clean, refined visual identity and a focus on an intuitive digital experience.
-
-<br/>
-
-<img src="https://img.shields.io/badge/DESIGN-FFD6A5?style=flat-square&labelColor=161B22" />
-<img src="https://img.shields.io/badge/WEB_EXPERIENCE-DDB6F2?style=flat-square&labelColor=161B22" />
-
-</td>
-<td width="35%" align="center" valign="middle">
-
-<a href="https://elan-client.vercel.app">
-<img src="https://img.shields.io/badge/↗_LIVE_DEMO-FFD6A5?style=for-the-badge&labelColor=161B22" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/radhshahmat91/elan-client">
-<img src="https://img.shields.io/badge/⌘_CLIENT-FFFFFF?style=for-the-badge&labelColor=30363D" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/radhshahmat91/elan-server">
-<img src="https://img.shields.io/badge/⌘_SERVER-FFFFFF?style=for-the-badge&labelColor=30363D" />
-</a>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<!-- ───────────────────── 04 · BOOKNOOK ───────────────────── -->
-
-<table>
-<tr>
-<td width="100%" colspan="2">
-
-<div align="center">
-
-<a href="https://booknook-client-murex.vercel.app">
-<img src="https://images.unsplash.com/photo-1507842217343-583bb7270b66?auto=format&fit=crop&w=1400&q=85"
-width="100%"
-alt="BookNook — Books and reading"
- />
-</a>
-
-</div>
-
-</td>
-</tr>
-<tr>
-<td width="65%" valign="middle">
-
-### 📚 BookNook
-
-**A little corner for book lovers.**
-
-A book-focused digital platform with a warm, welcoming identity designed around the world of reading and literature.
-
-<br/>
-
-<img src="https://img.shields.io/badge/BOOKS-C6B5FF?style=flat-square&labelColor=161B22" />
-<img src="https://img.shields.io/badge/DIGITAL_PLATFORM-8BD5CA?style=flat-square&labelColor=161B22" />
-
-</td>
-<td width="35%" align="center" valign="middle">
-
-<a href="https://booknook-client-murex.vercel.app">
-<img src="https://img.shields.io/badge/↗_LIVE_DEMO-C6B5FF?style=for-the-badge&labelColor=161B22" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/radhshahmat91/booknook-client">
-<img src="https://img.shields.io/badge/⌘_CLIENT-FFFFFF?style=for-the-badge&labelColor=30363D" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/radhshahmat91/booknook-server">
-<img src="https://img.shields.io/badge/⌘_SERVER-FFFFFF?style=for-the-badge&labelColor=30363D" />
-</a>
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=2&section=footer" width="100%" />
-
-<p>
-  <samp>✦ BUILT WITH CURIOSITY · POWERED BY CODE ✦</samp>
-</p>
-
-</div>
-
 
 ---
 
